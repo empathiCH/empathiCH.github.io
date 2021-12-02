@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# EmpathiCH
+# Empathy-Centric Design At Scale
 
-EmpathiCH aims to bring together different expertise to investigate how digital tools can be used to elicit empathy between multiple stakeholders at scale.
+**EmpathiCH** aims to bring together different expertise to investigate how digital tools can be used to elicit empathy between multiple stakeholders at scale.
   
 The motivation behind this works lies in the necessity of new digital-supported methodologies to design at-scale solutions to societal problems that are balanced, inclusive, and aware of their effect on society.
   
