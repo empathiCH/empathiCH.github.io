@@ -33,6 +33,3 @@ At least one author of each accepted paper must attend the workshop, and all par
 - Workshop day: - 
 
 
-## Program Committee
-
-
