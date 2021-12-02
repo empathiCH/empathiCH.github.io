@@ -5,9 +5,7 @@ nav: true
 
 ## Organizers
 
-{% include figure.html img="andrea.jpg" alt="cat" caption="My cat" width="50%" %}
-
-**Andrea Mauri** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering at Technische Universiteit Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values
+{% include figure.html img="andrea.jpg" alt="cat" width="50%" %} **Andrea Mauri** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering at Technische Universiteit Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values
 
 **Yen-Chia Hsu** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering, Technische Universiteit Delft (Netherlands). He studies methods to co-design, implement, deploy, and evaluate interactive AI systems that empower communities. He applies crowdsourcing, data visualization, machine learning, computer vision, and data science to engage and assist communities in addressing local environmental and social concerns.
 
