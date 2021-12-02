@@ -5,7 +5,7 @@ nav: true
 
 ## Organizers
 
-{% raw %}{% include figure.html img="andrea.jpg" alt="cat" caption="My cat" width="50%" %}{% endraw %}`
+{% include figure.html img="andrea.jpg" alt="cat" caption="My cat" width="50%" %}
 
 **Andrea Mauri** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering at Technische Universiteit Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values
 
