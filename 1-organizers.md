@@ -17,7 +17,7 @@ nav: true
 
 ![image](/images/himanshu.jpg){: .img-left} **Himanshu Verma** is a Tenure-Track Assistant Professor at the Faculty of Industrial Design and Engineering at Technische Universiteit Delft (Netherlands). He has a background in HCI, UbiComp and Social Cognition. He is interested in examining collaboration at scale, and his current research is focused on sensing and modeling of interpersonal collaborative processes and how they can be better supported through wearables. In addition, he is also interested in studying the perceptual, cognitive and experiential aspects of human-AI collaboration.  -->
 
-{{% include organizer.html img="andrea.jpg" txt="**Andrea Mauri** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering at Technische Universiteit Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values." %}}
+{% include organizer.html img="andrea.jpg" txt="**Andrea Mauri** is a Postdoctoral Researcher at the Faculty of Industrial Design Engineering at Technische Universiteit Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values." %}
 
 ## Program Committee
 
