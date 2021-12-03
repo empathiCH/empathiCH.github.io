@@ -23,6 +23,13 @@ In addition, this workshop will be a living experiment, where all the interactio
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
 
+<div class="logos">
+{% include logo.html img="tudelft.png"%}
+{% include logo.html img="ams.png"%}
+{% include logo.html img="polimi.png"%}
+{% include logo.html img="penn.png"%}
+{% include logo.html img="bristol.png"%}
+</div>
 <!---
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >

@@ -19,3 +19,14 @@
     display: inline-block;
     margin-top: 1em;
 }
+
+.logos {
+    align-items: center;
+    display: flex;
+}
+
+.logo {
+    display: inline-flex;
+    width: 30%;
+    margin-right: 2em;
+}
