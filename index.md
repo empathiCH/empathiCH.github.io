@@ -30,6 +30,11 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 {% include logo.html img="penn.png"%}
 {% include logo.html img="bristol.png"%}
 </div>
+
+<div class="project">
+{% include logo.html img="periscope.jpg"%}
+</div>
+
 <!---
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
