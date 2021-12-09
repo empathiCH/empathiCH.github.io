@@ -12,7 +12,7 @@ The motivation behind this works lies in the necessity of new digital-supported 
 
 We aim to investigate how new technologies can support the design **with** and **for** empathy in the following cases:
 
-- **For different purposes:** as solutions to societal problems may take many forms, such as a policy, a service, or a produc, requiring a diverse set of technologies and methods.
+- **For different purposes:** as solutions to societal problems may take many forms, such as a policy, a service, or a product, requiring a diverse set of technologies and methods.
 
 - **Across and within multiple stakeholders:** as societal problems affect a large variety of stakeholders, each with a different set of needs and values. In order to design inclusive solutions, it is important not only for the designers and decision-makers to understand the citizens but also for the people belonging to the same group to understand each other's perspectives.
 
