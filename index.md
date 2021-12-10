@@ -4,7 +4,7 @@ title: Home
 
 # Empathy-Centric Design At Scale!
 
-Welcome to the website for the CHI2022 workshop **EmpathiCH**!
+Welcome to the website for the [CHI2022](https://chi2022.acm.org/) workshop **EmpathiCH**!
 
 We aims to bring together different scholars---including computer scientists, social scientists, designers, psychologists, policy-makers, and practitioners from other disciplines---to share their knowledge, experience, and ideas about working with empathy for large-scale societal impact.
   
