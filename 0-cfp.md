@@ -19,17 +19,23 @@ We invite 4-6 page submissions that include position, work-in-progress, provocat
 
 We aim to assemble a multidisciplinary professional network that involves people in HCI, AI, social science, design, psychology, and health from universities, companies, non-profit organizations, and government sectors.
 
-Submissions should be submitted via Easychair (link) and will be selected based on novelty, provocativeness, quality, and relevance to the workshop.
+Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2022)) and will be selected based on novelty, provocativeness, quality, and relevance to the workshop.
 
 Please direct queries to Andrea Mauri (a.mauri@tudelft.nl).
 
 At least one author of each accepted paper must attend the workshop, and all participants must register for the workshop for at least one day of the conference.
 
+## Sumbission format
+
+- 4 to 6 pages, ACM double column format. Here you find the templates for [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx), and [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
+- If you use latex, please use: ``documentclass [sigconf, review] {acmart}``
+- The manuscripts do not need to be anonymized
+
 ## Important Dates
 
 - Paper submission: February 24, 2022
-- Notification of acceptance: -
-- Camera-ready submission: -
-- Workshop day: - 
+- Notification of acceptance: March 24, 2022
+- Camera-ready submission: April 1, 2022
+- Workshop day: TBD (between April 14-15 or April 30-May 6)
 
 
