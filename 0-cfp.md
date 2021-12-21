@@ -36,6 +36,6 @@ At least one author of each accepted paper must attend the workshop, and all par
 - Paper submission: February 24, 2022
 - Notification of acceptance: March 24, 2022
 - Camera-ready submission: April 1, 2022
-- Workshop day: TBD (between April 14-15 or April 30-May 6)
+- Workshop day: TBD (between April 13-14 or April 30-May 6)
 
 
