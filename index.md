@@ -31,7 +31,7 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 
 - Paper submission: February 24, 2022
 - Notification of acceptance: March 24, 2022
-- Workshop day: TBD (between April 14-15 or April 30-May 6)
+- Workshop day: April 26, 2022
 
 <div class="logos">
 {% include logo.html img="tudelft.png"%}
