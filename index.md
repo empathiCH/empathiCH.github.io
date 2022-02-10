@@ -30,7 +30,7 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 ## Important Dates
 
 - Paper submission: February 24, 2022
-- Notification of acceptance: March 24, 2022
+- Notification of acceptance: March 14, 2022
 - Workshop day: April 26, 2022
 
 <div class="logos">
