@@ -19,4 +19,9 @@ nav: true
 
 # Program Committee
 
-TBA
+- Wesley Hanwen Deng (Carnegie Mellon University)
+- Chunhua Tasi (University of Nebraska)
+- Vasilis Milias (TU Delft)
+- Wo Meijer (TU Delft)
+- Andrea Tocchetti (Politecnico di Milano)
+- ..more to be announced
