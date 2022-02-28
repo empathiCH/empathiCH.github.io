@@ -25,4 +25,5 @@ nav: true
 - Wo Meijer (TU Delft)
 - Andrea Tocchetti (Politecnico di Milano)
 - Yuan-Chi Tseng (National Tsing Hua University)
+- Elaine Czech (University of Bristol)
 - ..more to be announced
