@@ -26,4 +26,5 @@ nav: true
 - Andrea Tocchetti (Politecnico di Milano)
 - Yuan-Chi Tseng (National Tsing Hua University)
 - Elaine Czech (University of Bristol)
+- Ewan Soubutts (University of Oxford)
 - ..more to be announced
