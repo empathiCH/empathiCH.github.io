@@ -27,4 +27,5 @@ nav: true
 - Yuan-Chi Tseng (National Tsing Hua University)
 - Elaine Czech (University of Bristol)
 - Ewan Soubutts (University of Oxford)
+- Aneesha Singh (University College London)
 - ..more to be announced
