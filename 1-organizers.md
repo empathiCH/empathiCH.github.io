@@ -20,7 +20,7 @@ nav: true
 # Program Committee
 
 - Wesley Hanwen Deng (Carnegie Mellon University)
-- Chun-hua Tasi (University of Nebraska)
+- Chun-hua Tsai (University of Nebraska)
 - Vasilis Milias (TU Delft)
 - Wo Meijer (TU Delft)
 - Andrea Tocchetti (Politecnico di Milano)
