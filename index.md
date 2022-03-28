@@ -4,6 +4,8 @@ title: Home
 
 # Empathy-Centric Design At Scale!
 
+## The list of accepted papers is out! Check it out [here](/4-materials.html).
+
 ## Registration are open! Click [here](/0-registration.html) for the instructions.
 
 Welcome to the website for the [CHI2022](https://chi2022.acm.org/) workshop **EmpathiCH**!
