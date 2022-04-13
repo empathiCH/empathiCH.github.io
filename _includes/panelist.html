@@ -1,0 +1,8 @@
+<div class="panelist">
+    <div class="img-panel">
+        <img src="{{ include.img | prepend: '/images/' | relative_url }}" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }};"{% endif %}>
+    </div>
+    <div class="bio">
+        <p>{{include.txt}}</p>
+    </div>
+</div>

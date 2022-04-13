@@ -15,9 +15,21 @@
     width: 20%;
   }
 
+.img-panel {
+    float: left;
+    margin-right: 1em;
+    max-width: 40%;
+  }
+  
 .organizer {
     display: inline-block;
     margin-top: 1em;
+}
+
+.panelist {
+    display: inline-table;
+    width: 40%;
+    margin-bottom: 0.5em;
 }
 
 .project {
