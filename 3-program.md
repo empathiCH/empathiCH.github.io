@@ -71,7 +71,7 @@ Tentative workshop's program
 | 30 mins | **Mapping Session:** small groups within break-out rooms and using Miro boards will consolidate their ideas into developed research agendas |
 | 15 mins | *Short break*  |
 | 30 mins | **Group Presentations:** each group presents and discusses the results of ideation and mapping session to all other participants |
-| 30 mins | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). Closing of the data collection process. |
+| 30 mins | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - | (Virtual) Drinks and networking  |
 
