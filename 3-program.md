@@ -15,7 +15,7 @@ If you are a participant, you should have received the Zoom link via email. If n
 
 ## Moderator
 
-{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen).
+{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Sleeswijk Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen).
 
 " %}
 
