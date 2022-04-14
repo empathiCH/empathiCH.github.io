@@ -34,7 +34,7 @@ If you are a participant, you should have received the Zoom link via email. If n
 Tentative workshop's program
 
 
-| Time   | Activity                                                                                                                                                              |
+| Time  (CEST) | Activity                                                                                                                                                              |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2:00 PM  | **Welcome:** introduction of the  organizers, participants, workshop objectives and schedule                                                                                         |
 | 2:15 PM  | **Interactive Activity:** -                                                                                         |
