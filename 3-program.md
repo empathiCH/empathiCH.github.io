@@ -48,7 +48,7 @@ Tentative workshop's program
 | 7:45 PM | **Panel** "The role of technology of empowering or hindering empathy in design processes"                                                                                                   |
 | 8:45 PM  | *Short Break*                                                                                         |
 | 9:00 PM | **Interactive Activity:** -                                                                                                |
-| 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). Closing of the data collection process. |
+| 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - | (Virtual) Drinks and networking  |
 
@@ -71,7 +71,7 @@ Tentative workshop's program
 | 30 mins | **Mapping Session:** small groups within break-out rooms and using Miro boards will consolidate their ideas into developed research agendas |
 | 15 mins | *Short break*  |
 | 30 mins | **Group Presentations:** each group presents and discusses the results of ideation and mapping session to all other participants |
-| 30 mins | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
+| 30 mins | **Wrap Up:** summarize the workshop, and define actions for follow-up activities, and take group photos (both onsite and remote). |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - | (Virtual) Drinks and networking  |
 
