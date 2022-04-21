@@ -15,9 +15,7 @@ If you are a participant, you should have received the Zoom link via email. If n
 
 ## Moderator
 
-{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Sleeswijk Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen).
-
-" %}
+{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Sleeswijk Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen)." %}
 
 ## Panelists
 
@@ -78,5 +76,6 @@ Tentative workshop's program
 -->
 # Keynote 
 
-- To be finalized
+{% include organizer.html img="ujwal.jpg" txt="<strong>Ujwal Gadiraju</strong>  is an Assistant Professor the Web Information Systems group of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology and a Director of the Delft AI “Design@Scale” Lab. Ujwal’s goal is to create novel methods, interfaces, systems, and tools to overcome existing challenges on our path towards building better AI systems and facilitating better reliance of humans on AI systems!" %}
+
 
