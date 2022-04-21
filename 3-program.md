@@ -40,7 +40,7 @@ Tentative workshop's program
 | 2:15 PM  | **Interactive Activity:** -                                                                                         |
 | 3:00 PM  | **Paper Presentation** participants present their papers, followed by a moderated discussion session.                                                                                                    |
 | 4:00 PM  | *Short Break*                                                                                         |
-| 4:15 PM  | **Keynote** presentation by an invited expert with Q\A and discussions                                                                                                       |
+| 4:30 PM  | **Keynote** presentation by an invited expert with Q\A and discussions                                                                                                       |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |5:30 PM | Food break and social gathering|
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
