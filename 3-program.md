@@ -38,14 +38,14 @@ Tentative workshop's program
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2:00 PM  | **Welcome:** introduction of the  organizers, participants, workshop objectives and schedule                                                                                         |
 | 2:15 PM  | **Interactive Activity:** -                                                                                         |
-| 3:00 PM  | **Keynote:** presentation by an invited expert with Q\A and discussions                                                                                                   |
+| 3:00 PM  | **Paper Presentation** participants present their papers, followed by a moderated discussion session.                                                                                                    |
 | 4:00 PM  | *Short Break*                                                                                         |
-| 4:15 PM  | **Paper Presentation** participants present their papers in a minute madness style, followed by a moderated discussion session.                                                                                                     |
+| 4:15 PM  | **Keynote** presentation by an invited expert with Q\A and discussions                                                                                                       |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |5:30 PM | Food break and social gathering|
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7:00 PM | **Interactive Activity:** -                                                                                                |
-| 7:45 PM | **Panel** "The role of technology of empowering or hindering empathy in design processes"                                                                                                   |
+| 7:45 PM | **Panel** "The role of technology in empowering or hindering empathy in design processes"                                                                                                   |
 | 8:45 PM  | *Short Break*                                                                                         |
 | 9:00 PM | **Interactive Activity:** -                                                                                                |
 | 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
