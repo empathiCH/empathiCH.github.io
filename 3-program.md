@@ -9,27 +9,7 @@ The workshop will be held on Zoom, and it will use Miro as a way to engage with 
 
 If you are a participant, you should have received the Zoom link via email. If not, please write an email to Andrea Mauri (a.mauri@tudelft.nl)
 
-# Panel
-
-> The role of technology in empowering or hindering empathy in design processes
-
-## Moderator
-
-{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Sleeswijk Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen)." %}
-
-## Panelists
-
-{% include panelist.html img="sara.jpg" txt="<strong>Sara Colombo</strong> <br>TU Eindhoven" %}
-
-{% include panelist.html img="stina.jpg" txt="<strong>Stina Matthiesen</strong> University of Copenhagen" %}
-
-{% include panelist.html img="carine.jpg" txt="<strong>Carine Lallemand</strong> TU Eindhoven" %}
-
-{% include panelist.html img="aneesha.jpg" txt="<strong>Aneesha Singh</strong> UCLIC" %}
-
-# Program
-
-Tentative workshop's program
+# Program at glance
 
 
 | Time  (CEST) | Activity                                                                                                                                                              |
@@ -49,6 +29,26 @@ Tentative workshop's program
 | 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - | (Virtual) Drinks and networking  |
+
+
+# Panel
+
+> The role of technology in empowering or hindering empathy in design processes
+
+## Moderator
+
+{% include organizer.html img="froukje.jpg" txt="<strong>Froukje Sleeswijk Visser</strong> is Associate Professor Service Design at Delft University of Technology. Her research focuses on integration of human perspectives in formulation, development and implementation of public services. She developed the methodology contextmapping where users are experts of their experiences and in that role contribute to codesign processes. Froukje is also an independent design researcher (Contextqueen)." %}
+
+## Panelists
+
+{% include panelist.html img="sara.jpg" txt="<strong>Sara Colombo</strong> <br>TU Eindhoven" %}
+
+{% include panelist.html img="stina.jpg" txt="<strong>Stina Matthiesen</strong> University of Copenhagen" %}
+
+{% include panelist.html img="carine.jpg" txt="<strong>Carine Lallemand</strong> TU Eindhoven" %}
+
+{% include panelist.html img="aneesha.jpg" txt="<strong>Aneesha Singh</strong> UCLIC" %}
+
 
 <!--
 | Duration   | Activity                                                                                                                                                              |
@@ -75,6 +75,8 @@ Tentative workshop's program
 
 -->
 # Keynote 
+
+> What’s A Healthy Workplace? The Future of Crowd Work Through the Lens of Empathy
 
 {% include organizer.html img="ujwal.jpg" txt="<strong>Ujwal Gadiraju</strong>  is an Assistant Professor the Web Information Systems group of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology and a Director of the Delft AI “Design@Scale” Lab. Ujwal’s goal is to create novel methods, interfaces, systems, and tools to overcome existing challenges on our path towards building better AI systems and facilitating better reliance of humans on AI systems!" %}
 
