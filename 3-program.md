@@ -15,18 +15,18 @@ If you are a participant, you should have received the Zoom link via email. If n
 | Time  (CEST) | Activity                                                                                                                                                              |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2:00 PM  | **Welcome:** introduction of the  organizers, participants, workshop objectives and schedule                                                                                         |
-| 2:15 PM  | **Interactive Activity:** -                                                                                         |
+| 2:15 PM  | **Interactive Activity:** ice-breaker and introductory brainstorming                                                                                        |
 | 3:00 PM  | **Paper Presentation** participants present their papers, followed by a moderated discussion session.                                                                                                    |
 | 4:00 PM  | *Short Break*                                                                                         |
 | 4:30 PM  | **Keynote**  "What’s A Healthy Workplace? The Future of Crowd Work Through the Lens of Empathy" by Ujwal Gadiraju                                                                                                  |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |5:30 PM | Food break|
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 7:00 PM | **Interactive Activity:** -                                                                                                |
+| 7:00 PM | **Interactive Activity:** a game of Dixit!                                                                                                |
 | 7:45 PM | **Panel** "The role of technology in empowering or hindering empathy in design processes"                                                                                                   |
 | 8:45 PM  | *Short Break*                                                                                         |
-| 9:00 PM | **Interactive Activity:** -                                                                                                |
-| 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). |
+| 9:00 PM | **Interactive Activity:** reflection                                                                                              |
+| 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos. |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | - | (Virtual) Drinks and networking  |
 

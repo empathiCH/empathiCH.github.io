@@ -11,5 +11,5 @@ nav: true
 - Afra Pascual, Mireia Ribera and Toni Granollers. **Empathy-Centric Design on a System to Evaluate and Repair Accessibility Barriers**. [[PDF](/papers/EmpathiCH2022_paper_5.pdf)] [[Slides](/papers/presentation5.pdf)]
 - Thiago Roque, Neha Rajagopalan, Saksham Jain, Sophia Mehdizadeh and Grace Leslie. **Multimodal, Musical Hyperscanning to Promote Empathy in HCI**. [[PDF](/papers/EmpathiCH2022_paper_6.pdf)]
 - Timothy Min and Grace Leslie. **Instilling Empathy among Strangers through Biofeedback**. [[PDF](/papers/EmpathiCH2022_paper_7.pdf)]
-- Wo Meijer. **Mediating Video and Sensor Data to Foster Empathy**. [[PDF](/papers/EmpathiCH2022_paper_8.pdf)]
+- Wo Meijer. **Mediating Video and Sensor Data to Foster Empathy**. [[PDF](/papers/EmpathiCH2022_paper_8.pdf)] [[Slides](/papers/presentation8.pdf)]
 
