@@ -18,9 +18,9 @@ If you are a participant, you should have received the Zoom link via email. If n
 | 2:15 PM  | **Interactive Activity:** -                                                                                         |
 | 3:00 PM  | **Paper Presentation** participants present their papers, followed by a moderated discussion session.                                                                                                    |
 | 4:00 PM  | *Short Break*                                                                                         |
-| 4:30 PM  | **Keynote** presentation by an invited expert with Q\A and discussions                                                                                                       |
+| 4:30 PM  | **Keynote**  "What’s A Healthy Workplace? The Future of Crowd Work Through the Lens of Empathy" by Ujwal Gadiraju                                                                                                  |
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|5:30 PM | Food break and social gathering|
+|5:30 PM | Food break|
 |:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7:00 PM | **Interactive Activity:** -                                                                                                |
 | 7:45 PM | **Panel** "The role of technology in empowering or hindering empathy in design processes"                                                                                                   |
@@ -41,13 +41,14 @@ If you are a participant, you should have received the Zoom link via email. If n
 
 ## Panelists
 
-{% include panelist.html img="sara.jpg" txt="<strong>Sara Colombo</strong> <br>TU Eindhoven" %}
+{% include organizer.html img="sara.jpg" txt="<strong>Sara Colombo</strong> is an Assistant Professor at the Department of Industrial Design, TU Eindhoven (Netherlands). Her work explores new approaches, processes, and tools to design solutions enabled by machine learning and AI, with a focus on their ethical implications for individuals and society. She is passionate about using technology for social good. In 2020, she co-founded and directed the global initiative Design for Emergency, which leveraged digital technologies and AI to collectively design for social wellbeing in the Covid-19 pandemic." %}
 
-{% include panelist.html img="stina.jpg" txt="<strong>Stina Matthiesen</strong> University of Copenhagen" %}
+{% include organizer.html img="stina.jpg" txt="<strong>Stina Matthiesen</strong> is an assistant professor in CSCW and Health Informatics at the Department of Computer Science, University of Copenhagen. She is inspired by critical studies on race, technology and datafication and has previously explored how stereotypes and implicit biases manifest themselves in the everyday practices of global software development (GSD). Currently, her research focuses on how emergent data-driven technologies can support the clinical work and patient-clinician interaction in cardiac care, as well as how these future technologies may affect the emotional labor of chronic patients." %}
 
-{% include panelist.html img="carine.jpg" txt="<strong>Carine Lallemand</strong> TU Eindhoven" %}
+{% include organizer.html img="aneesha.jpg" txt="<strong>Aneesha Singh</strong> is a Lecturer in Human-Computer Interaction at the UCL Interaction Centre. She is interested in the design, adoption and use of personal health and wellbeing technologies in everyday contexts, focusing on sensitive and stigmatized conditions. Her research areas include digital health, ubiquitous computing, multi-sensory feedback and wearable technology. She has previously worked in industry in various roles as a software consultant, and as a technical journalist." %}
 
-{% include panelist.html img="aneesha.jpg" txt="<strong>Aneesha Singh</strong> UCLIC" %}
+{% include organizer.html img="carine.jpg" txt="<strong>Carine Lallemand</strong> is Assistant Professor in the Systemic Change cluster at the Industrial Design department. She has a background in Psychology, Human-Computer Interaction, and Experience Design. Her research interests are mainly focused on the development, adaptation and validation of user experience design and evaluation methods. Particular application areas are office vitality, urban environments, exercising motivation, and personal health. To question the status quo, Carine enjoys exploring alternative ways of designing, for instance through critical and speculative design, the aesthetics of friction, or slow technology" %}
+
 
 
 <!--
