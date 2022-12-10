@@ -3,9 +3,7 @@ title: Registration
 nav: true
 ---
 
-Registration details for CHI 2023 will be updated shortly.
-
-<!-- To register to the workshop please follow the following instructions:
+To register to the workshop please follow the following instructions:
 
 If you are not yet registered for CHI, [CLICK HERE](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
 
@@ -22,6 +20,6 @@ If you are adding a workshop to your existing registration, [CLICK HERE](https:/
 - Proceed through your registration (“Next” until the Optional Items page) to add your workshop
 - Select **W18: Empathy-Centric Design At Scale** from the dropdown and click “Next” at the bottom
 - Enter **AccessW18** in the code box
-- Follow through to complete the addition by making a payment and clicking “Finish” -->
+- Follow through to complete the addition by making a payment and clicking “Finish”
 
 

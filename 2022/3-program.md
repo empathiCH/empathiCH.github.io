@@ -3,37 +3,35 @@ title: Program
 nav: true
 ---
 
-## How to attend
+# How to attend
 
-The workshop will be held in person at CHI. If you are a participant, you should have received instuctions via email. If not, please write an email to Wo Meijer (w.i.m.t.meijer@tudelft.nl)
+The workshop will be held on Zoom, and it will use Miro as a way to engage with the audience.
 
-## Program at glance
+If you are a participant, you should have received the Zoom link via email. If not, please write an email to Andrea Mauri (a.mauri@tudelft.nl)
 
-The preliminary program is as follows:
-| Duration  | Activity  |
-|--- |--- |
-| 10 minutes  | Set Up: Welcome in-person participants, set the hybrid Zoom call (for remote participants only) and general introduction.  |
-| 15 minutes  | Intro game: Introduce organizers, workshop objectives and schedule with an interactive game.  |
-| 60 minutes  | Author Panel: The first set of authors spend 3 minutes each presenting their work. organizers moderate an engaging and dynamic discussion.  |
-| 10 minutes  | Short break  |
-| 30 minutes  | Interactive Session: Participants will go through a set of activities on a Miro board centered around a real life case of empathy in design. Through provocations and ideation, teams will uncover benefits, drawbacks, and ethical implications of empathy in design.  |
-| 15 minutes  | Short break  |
-| 60 minutes  | Author Panel: The second set of authors spend 3 minutes each presenting their work. organizers moderate an engaging and dynamic discussion.  |
-| 10 minutes  | Short break  |
-| 30 minutes  | Interactive Session: Teams from the previous session will expand on their work by reflecting on the discussion as well as a fresh set of provocations.  |
-| 60 minutes  | Lunch break and social gathering  |
-| 60 minutes  | Keynote: A 45-minute keynote presentation followed by 15 minutes Q\&A. The talk will be held onsite or remotely depending on the speakers' availability. However, the preference will be given to an in-person keynote.  |
-| 30 minutes  | Expert Panel Discussion: Organizers will then moderate a brief expert panel, encouraging experts and participants to reflect on how the previous sessions influenced their understanding of the keynote.  |
-| 15 minutes  | Short break  |
-| 15 minutes  | Rewarm-up: Starting with a small energy boosting exercise, the organizers will give instructions on the final group session.  |
-| 30 minutes  | Group Session: Groups will go through a set of interactive activities on their Miro boards pushing them to recall, reflect, and ideate on the work done in the morning and how their cases and thoughts change in light of the discussion.  |
-| 15 minutes  | Short break  |
-| 45 minutes  | Group Presentations: Each group presents and discusses the results of ideation and mapping session to all other participants.  |
-| 20 minutes  | Wrap Up: Summarize the workshop, actions on follow-up activities, and take group photos (both onsite and remote). Closing of the data collection process.  |
-| -  | Dinner and Social Events  |
+# Program at glance
 
 
-<!-- # Panel
+| Time  (CEST) | Activity                                                                                                                                                              |
+|:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2:00 PM  | **Welcome:** introduction of the  organizers, participants, workshop objectives and schedule                                                                                         |
+| 2:15 PM  | **Interactive Activity:** ice-breaker and introductory brainstorming                                                                                        |
+| 3:00 PM  | **Paper Presentation** participants present their papers, followed by a moderated discussion session.                                                                                                    |
+| 4:00 PM  | *Short Break*                                                                                         |
+| 4:30 PM  | **Keynote**  "What’s A Healthy Workplace? The Future of Crowd Work Through the Lens of Empathy" by Ujwal Gadiraju                                                                                                  |
+|:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|5:30 PM | Food break|
+|:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 7:00 PM | **Interactive Activity:** a game of Dixit!                                                                                                |
+| 7:45 PM | **Panel** "The role of technology in empowering or hindering empathy in design processes"                                                                                                   |
+| 8:45 PM  | *Short Break*                                                                                         |
+| 9:00 PM | **Interactive Activity:** reflection                                                                                              |
+| 9:45 PM | **Wrap Up:** summarize the workshop, actions on follow-up activities, and take group photos. |
+|:------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - | (Virtual) Drinks and networking  |
+
+
+# Panel
 
 > The role of technology in empowering or hindering empathy in design processes
 
@@ -83,4 +81,4 @@ The preliminary program is as follows:
 
 {% include organizer.html img="ujwal.jpg" txt="<strong>Ujwal Gadiraju</strong>  is an Assistant Professor the Web Information Systems group of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS/EWI), Delft University of Technology and a Director of the Delft AI “Design@Scale” Lab. Ujwal’s goal is to create novel methods, interfaces, systems, and tools to overcome existing challenges on our path towards building better AI systems and facilitating better reliance of humans on AI systems!" %}
 
- -->
+

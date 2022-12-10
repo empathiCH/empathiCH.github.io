@@ -1,52 +1,43 @@
 ---
 title: Home
+nav: true
 ---
+# The EmpathiCH Workshop: Unraveling Empathy-Centric Design!
 
-# Empathy-Centric Design At Scale!
+Welcome to the website for the [CHI2023](https://chi2023.acm.org/) workshop **EmpathiCH**!
 
-## The list of accepted papers is out! Check it out [here](/4-materials.html).
+## Last year's workshop
 
-## Registration are open! Click [here](/0-registration.html) for the instructions.
-
-Welcome to the website for the [CHI2022](https://chi2022.acm.org/) workshop **EmpathiCH**!
-
-We aims to bring together different scholars---including computer scientists, social scientists, designers, psychologists, policy-makers, and practitioners from other disciplines---to share their knowledge, experience, and ideas about working with empathy for large-scale societal impact.
-  
-The motivation behind this works lies in the necessity of new digital-supported methodologies to design at-scale solutions to societal problems that are balanced, inclusive, and aware of their effect on society.
-
-We aim to investigate how new technologies can support the design **with** and **for** empathy in the following cases:
-
-- **For different purposes:** as solutions to societal problems may take many forms, such as a policy, a service, or a product, requiring a diverse set of technologies and methods.
-
-- **Across and within multiple stakeholders:** as societal problems affect a large variety of stakeholders, each with a different set of needs and values. In order to design inclusive solutions, it is important not only for the designers and decision-makers to understand the citizens but also for the people belonging to the same group to understand each other's perspectives.
-
-- **At different scales:** because solutions can affect society at different scales, such as a policy at the national level, an urban intervention at the city level, or a plan within an organization. Each of them presenting a diverse sets of technological and societal challenges. 
-
+The website with the organizors, information, and accepted papers of last years workshop can be found [here](/2022/).
 
 ## Format of the workshop
 
-This full-day virtual-only workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts.
-
-In addition, this workshop will be a **living experiment**, where all the interactions between the participant will be recorded (e.g., talks, questions, comments), annotated, combined with sensor data from wearable devices, and made public for everyone to access.
+This full-day in person workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts.
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda
 
+<!-- add the information of the workshop -->
+
+## Program
+
+The preliminary schedule and more information can be found [here](/3-program.html).
+
 ## Important Dates
 
-- Paper submission: ~~February 24, 2022~~ March 4, 2022
-- Notification of acceptance: March 14, 2022
-- Workshop day: April 26, 2022
+- Paper submission: XXXX
+- Notification of acceptance: XXXX
+- Workshop day: XXXX
 
 <div class="logos">
 {% include logo.html img="tudelft.png"%}
-{% include logo.html img="ams.png"%}
-{% include logo.html img="polimi.png"%}
-{% include logo.html img="penn.png"%}
+<!-- {% include logo.html img="ams.png"%} -->
+<!-- {% include logo.html img="polimi.png"%} -->
+<!-- {% include logo.html img="penn.png"%} -->
 {% include logo.html img="bristol.png"%}
 </div>
 
 <div class="project">
-{% include logo.html img="periscope.jpg"%}
+<!-- {% include logo.html img="periscope.jpg"%} -->
 </div>
 
 <!---

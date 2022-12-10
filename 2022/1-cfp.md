@@ -2,10 +2,12 @@
 title: Call for Paper
 nav: true
 ---
-<!-- TODO: update this to the copy that Luce wrote -->
-While empathy has been proven effective in forming relationships between designers and users, there remain questions about what empathy is exactly and how it can be better measured, fostered, and understood.
 
-In this one-day interactive workshop, we will formulate and develop a set of future challenges and strategies for the **Empathy-Centric Design** research agenda.
+While empathy has been proven effective in forming relationships between designers and users, it remains an open question about integrating empathy at a large scale in the design process with multiple stakeholders having diverse (even contradicting) perspectives.
+
+In this one-day interactive workshop, we will formulate and develop a set of future challenges and strategies for the **Empathy-Centric Design at Scale** research agenda.
+
+We will investigate the role of empathy and the supporting technologies in the design process at scale.
 
 We invite 4-6 page submissions that include position, work-in-progress, provocation, demo, or poster papers in the SIGCHI Full paper format addressing questions such as (but not limited to):
 
@@ -17,9 +19,9 @@ We invite 4-6 page submissions that include position, work-in-progress, provocat
 
 We aim to assemble a multidisciplinary professional network that involves people in HCI, AI, social science, design, psychology, and health from universities, companies, non-profit organizations, and government sectors.
 
-Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) and will be selected based on novelty, provocativeness, quality, and relevance to the workshop.
+Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2022)) and will be selected based on novelty, provocativeness, quality, and relevance to the workshop.
 
-Please direct queries to Wo Meijer (w.i.m.t.meijer@tudelft.nl).
+Please direct queries to Andrea Mauri (a.mauri@tudelft.nl).
 
 At least one author of each accepted paper must attend the workshop, and all participants must register for the workshop for at least one day of the conference.
 
@@ -31,7 +33,9 @@ At least one author of each accepted paper must attend the workshop, and all par
 
 ## Important Dates
 
-- Paper submission: XXXXXXX
-- Notification of acceptance: XXXXXX
-- Camera-ready submission: XXXXXX
-- Workshop day: XXXXX
+- Paper submission: ~~February 24, 2022~~ March 4, 2022
+- Notification of acceptance: March 14, 2022
+- Camera-ready submission: April 1, 2022
+- Workshop day: April 26, 2022
+
+

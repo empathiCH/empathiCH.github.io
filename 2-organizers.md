@@ -3,23 +3,26 @@ title: Organizers
 nav: true
 ---
 
-# Organizers
+## Organizers
+<!-- TODO: add photos -->
+**Luce Drouet** is a User Experience Researcher and Ph.D. candidate at the University of Luxembourg in the HCI research group. Her work focuses on empathy in service design, in the wider context of user-centered maturity in companies. She experiments with empathic design methods to facilitate sharing customers’ voices with service employees and to reduce silos in organizations. Luce works in partnership with the Luxembourgish Railway Service. (Website: [https://hci.uni.lu/luce-drouet/](https://hci.uni.lu/luce-drouet/))
 
-{% include organizer.html img="andrea.jpg" txt="<strong>Andrea Mauri</strong> is a PostDoc at the Faculty of Industrial Design Engineering at TU Delft (Netherlands), and Research Fellow at the Amsterdam Institute for Advanced Metropolitan Solutions. He is interested in the design, implementation, and evaluation of novel computational methods and tools - focusing on hybrid human-AI methodologies - to support the design processes addressing societal problems by integrating human and societal needs and values." %}
+**Wo Meijer** (main contact) is an industrial designer and Ph.D. candidate at the Delft University of Technology (TU Delft, Netherlands). He has a background in Multi-Modal interactions in Virtual Reality with a focus on increasing presence, engagement, and empathy between and among people. His current research is focused on enhancing video as a user research method in order to help designers develop empathy for their users quickly and deeply. (Website: [http://womeijer.com](http://womeijer.com))
 
-{% include organizer.html img="yenchia.jpg" txt="<strong>Yen-Chia Hsu</strong> is an Assistant Professor in the Informatics Institute at the University of Amsterdam (previously PostDoc in TU Delft). He studies methods to co-design, implement, deploy, and evaluate interactive AI systems that empower communities. He applies crowdsourcing, data visualization, machine learning, computer vision, and data science to engage and assist communities in addressing local environmental and social concerns. " %}
+**Aisling Ann O'Kane** is an Associate Professor in Human-Computer Interaction for Health at the University of Bristol and was the Deputy Director of the EPSRC CDT in Digital Health and Care. She has over ten years of experience studying the real world use of health and care technologies outside of clinical settings. (Website: [https://research-information.bris.ac.uk/en/persons/aisling-a-okane](https://research-information.bris.ac.uk/en/persons/aisling-a-okane))
 
-{% include organizer.html img="marco.jpg" txt="<strong>Marco Brambilla</strong> is a full professor at Politecnico di Milano. He manages several research and industrial innovation projects. His research interests include data science, software modeling languages, crowdsourcing, social media monitoring, data-driven innovation, and big data analysis. He is the main author of the OMG standard IFML. He is associate editor of the journals: Web Engineering, Digital, and Advances in Human-Computer Interactions. " %}
+**Aneesha Singh** is an Associate Professor in Human-Computer Interaction at the UCL Interaction Centre. She is interested in the design, adoption and use of personal health and wellbeing technologies in everyday contexts, focusing on sensitive and stigmatized conditions. Her research areas include digital health, ubiquitous computing, multi-sensory feedback and wearable technology. She has previously worked in industry in various roles as a software consultant, and as a technical journalist. (Website: [https://uclic.ucl.ac.uk/people/aneesha-singh](https://uclic.ucl.ac.uk/people/aneesha-singh))
 
-{% include organizer.html img="tinghao.jpg" txt="<strong>Ting-Hao `Kenneth' Huang</strong> is a tenure-track Assistant Professor at the College of Information Sciences and Technology of the Pennsylvania State University. His research lies in the intersection of Artificial Intelligence and Human-Computer Interaction, imagining new possibilities of human-AI collaborations. Dr. Huang explores the creative and complex domains, such as open conversation, writing support, and automatic storytelling, which seem exceptionally challenging to automate. His work aims to move automation beyond low-level, mundane tasks to augment human creativity and sociability.  " %}
+**Thiemo Wambsganss** is a Postdoc. at the Machine Learning for Education Laboratory at the Swiss Federal Institute of Technology in Lausanne (EPFL). His work aims to leverage methods from Natural Language Processing and Machine Learning to provide users, in particular students, with intelligent writing feedback anytime and anywhere they want. In this vein, he studies how to model empathy in human texts and how to provide students with adaptive empathy feedback in peer review scenarios. (Website: [https://thiemowa.github.io/](https://thiemowa.github.io/))
 
-{% include organizer.html img="aisling.jpg" txt=" <strong>Aisling Ann O'Kane</strong> is s a Senior Lecturer in Human-Computer Interaction for Health at the University of Bristol and is Deputy Director of the EPSRC CDT in Digital Health and Care. She has over ten years of experience studying the real world use of health and care technologies outside of clinical settings." %}
+**Andrea Mauri** is a Junior Professor at Université Claude Bernard Lyon 1, affiliated with the Liris Research Lab. His research lies at the intersection of HCI and Data Management. He investigates how to integrate human factors --such as the concept of empathy-- in computational methods to design, develop and deploy data-intensive applications to make them aware of people features, needs, and values.(Website: [https://andreamauri.me](https://andreamauri.me))
 
-{% include organizer.html img="himanshu.jpg" txt=" <strong>Himanshu Verma</strong> is a Tenure-Track Assistant Professor at the Faculty of Industrial Design and Engineering at TU Delft (Netherlands). He has a background in HCI, UbiComp and Social Cognition. He is interested in examining collaboration at scale, and his current research is focused on sensing and modeling of interpersonal collaborative processes and how they can be better supported through wearables. In addition, he is also interested in studying the perceptual, cognitive and experiential aspects of human-AI collaboration" %}
+**Himanshu Verma** is a Tenure-Track Assistant Professor at the Faculty of Industrial Design and Engineering at Delft University of Technology (TU Delft, Netherlands). He has a background in HCI, UbiComp and Social Cognition. He is interested in examining the internal mechanisms (comprised of latent, non-verbal and transient social signals) which enable or inhibit interpersonal collaborations, and his current research focuses on modeling reliable proxies of empathy and their broader implications for empathy-centric design. (Website: [https://vermahimanshu.com/](https://vermahimanshu.com/))
 
-# Program Committee
+## Program Committee
 
-- Wesley Hanwen Deng (Carnegie Mellon University)
+To be announced soon.
+<!-- - Wesley Hanwen Deng (Carnegie Mellon University)
 - Chun-hua Tsai (University of Nebraska)
 - Vasilis Milias (TU Delft)
 - Wo Meijer (TU Delft)
@@ -28,4 +31,4 @@ nav: true
 - Elaine Czech (University of Bristol)
 - Ewan Soubutts (University of Oxford)
 - Aneesha Singh (University College London)
-- Sara Colombo (TU Eindhoven)
+- Sara Colombo (TU Eindhoven) -->
