@@ -28,12 +28,16 @@ The preliminary schedule and more information can be found [here](/3-program.htm
 - Notification of acceptance: XXXX
 - Workshop day: XXXX
 
+
 <div class="logos">
+{% include logo.html img="luxembourg.jpeg"%}
 {% include logo.html img="tudelft.png"%}
 <!-- {% include logo.html img="ams.png"%} -->
 <!-- {% include logo.html img="polimi.png"%} -->
 <!-- {% include logo.html img="penn.png"%} -->
+{% include logo.html img="uclic.png"%}
 {% include logo.html img="bristol.png"%}
+{% include logo.html img="epfl.png"%}
 </div>
 
 <div class="project">
