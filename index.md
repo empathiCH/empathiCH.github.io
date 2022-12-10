@@ -1,6 +1,6 @@
 ---
 title: Home
-nav: true
+nav: false
 ---
 # The EmpathiCH Workshop: Unraveling Empathy-Centric Design!
 
