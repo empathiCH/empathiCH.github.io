@@ -1,6 +1,6 @@
 ---
 title: Call for Paper
-nav: true
+nav: false
 ---
 
 While empathy has been proven effective in forming relationships between designers and users, it remains an open question about integrating empathy at a large scale in the design process with multiple stakeholders having diverse (even contradicting) perspectives.

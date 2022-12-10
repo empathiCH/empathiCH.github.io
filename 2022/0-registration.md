@@ -1,6 +1,6 @@
 ---
 title: Registration
-nav: true
+nav: false
 ---
 
 To register to the workshop please follow the following instructions:

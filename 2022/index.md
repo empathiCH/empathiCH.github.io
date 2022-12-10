@@ -1,12 +1,11 @@
 ---
 title: Home
+nav: false
 ---
 
 # Empathy-Centric Design At Scale!
 
-## The list of accepted papers is out! Check it out [here](/4-materials.html).
-
-## Registration are open! Click [here](/0-registration.html) for the instructions.
+## The list of accepted papers is out! Check it out [here](/2022/4-materials.html)
 
 Welcome to the website for the [CHI2022](https://chi2022.acm.org/) workshop **EmpathiCH**!
 
@@ -22,10 +21,9 @@ We aim to investigate how new technologies can support the design **with** and *
 
 - **At different scales:** because solutions can affect society at different scales, such as a policy at the national level, an urban intervention at the city level, or a plan within an organization. Each of them presenting a diverse sets of technological and societal challenges. 
 
-
 ## Format of the workshop
 
-This full-day virtual-only workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts.
+This full-day virtual-only workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts. The program is found [here](/2022/3-program.html)
 
 In addition, this workshop will be a **living experiment**, where all the interactions between the participant will be recorded (e.g., talks, questions, comments), annotated, combined with sensor data from wearable devices, and made public for everyone to access.
 
@@ -36,6 +34,9 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 - Paper submission: ~~February 24, 2022~~ March 4, 2022
 - Notification of acceptance: March 14, 2022
 - Workshop day: April 26, 2022
+
+## Organizers
+The organizers of the 2022 edition of the workshop are listed [here](/2022/2-organizers.html)
 
 <div class="logos">
 {% include logo.html img="tudelft.png"%}

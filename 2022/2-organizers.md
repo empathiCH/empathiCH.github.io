@@ -1,6 +1,6 @@
 ---
 title: Organizers
-nav: true
+nav: false
 ---
 
 # Organizers
