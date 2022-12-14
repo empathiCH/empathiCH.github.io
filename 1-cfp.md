@@ -9,23 +9,36 @@ In this one-day interactive workshop, we will consolidate existing theories and 
 
 We invite 4-6 page submissions that include position, work-in-progress, provocation, demo, or poster papers in the [ACM single-column](https://www.acm.org/publications/proceedings-template) addressing questions such as (but not limited to):
 
-- What *methods* and *measurement* tools can we rely on to assess empathy and their implications?
-- How empathy could and should be modeled at different *levels*, e.g., through artificial neural networks?
-- How can empathy be *mis-used*, e.g., the design of persuasive systems?
+- **Assessment of empathy.** What *methods* and *measurement* tools can we rely on to assess empathy and their implications?
+- **Diversity and richness of empathy.** How empathy could and should be modeled at different *levels*, e.g., through artificial neural networks?
+- **Empathy tensions and abuses.** How can empathy be *mis-used*, e.g., the design of persuasive systems?
 
-We aim to assemble a multidisciplinary professional network that involves people in HCI, AI, social science, design, psychology, and health from universities, companies, non-profit organizations, and government sectors.
+Submissions will be selected based on novelty, provocativeness, quality, and relevance to the workshop (i.e., related to Empathy-Centric Design topics and engaging discussion) through a rigorous, double-blind peer review process.
 
-Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) and will be selected based on novelty, provocativeness, quality, and relevance to the workshop.
-
-Please direct queries to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
+After acceptance, we will ask the authors to prepare a final camera-ready version and a summary of changes to be reviewed by the program committee before final acceptance. Authors will also be asked to prepare a 4-8 minute video summarizing their work, which we will publish on the EmpathiCH workshop website. One week before the workshop, we will ask the participants to familiarize themselves with the papers and the videos. Additionally, we will invite all authors to join a special Slack channel to facilitate informal communication.
 
 At least one author of each accepted paper must attend the workshop, and all participants must register for the workshop for at least one day of the conference.
 
-## Submission format
+Please direct queries to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
 
-- 4 to 6 pages, ACM double column format. Here you find the templates for [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx), and [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
-- If you use latex, please use: ``documentclass [sigconf, review] {acmart}``
-- The manuscripts do not need to be anonymized
+## Submission Format
+
+Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) be selected based on novelty, provocativeness, quality, and relevance to the workshop (i.e., related to Empathy-Centric Design topics and engaging discussion) through a rigorous, double-blind peer review process.
+
+- Submissions should include a 4-6 page manuscript (excluding references) using the ACM Master Article Submission Template (single column). Here you find the templates for [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx), and [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
+- If you use latex, please use: ``documentclass [sigconf, review] {acmart}``.
+- The manuscripts need to be **anonymized**.
+
+## Submission Types
+
+We invited a broad range of different types of papers, including:
+
+- **Research Paper**: novel research on Empathy-Centric Design (i.e., empathy in HCI and related fields)
+- **Case study**: research based on real-world experiences on Empathy-Centric Design topics
+- **Provocation/Position Paper**: inspiring, controversial, provoking thoughts on Empathy-Centric Design
+- **Work-in-progress**: a study, a research project in progress on Empathy-Centric Design topics
+- **Demos**: prototypes and new technology concepts that will be tested during the workshop (including a description of what attendees will experience through the demos) related to Empathy-Centric Design topics
+- **Pictorials**: visual components (e.g., diagrams, sketches, illustrations, renderings, photographs, annotated photographs, and collages) accompanying text to convey new ideas and contribute to Empathy-Centric Design
 
 ## Important Dates
 

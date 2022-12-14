@@ -25,15 +25,12 @@ The preliminary schedule and more information can be found [here](/3-program.htm
 ## Important Dates
 
 - Paper submission: February 23, 2023
-- Notification of acceptance: approximately March 9, 2023
+- Notification of acceptance: TBA
 - Workshop day: April 23, 2023
 
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
 {% include logo.html img="tudelft.png"%}
-<!-- {% include logo.html img="ams.png"%} -->
-<!-- {% include logo.html img="polimi.png"%} -->
-<!-- {% include logo.html img="penn.png"%} -->
 {% include logo.html img="uclic.png"%}
 {% include logo.html img="bristol.png"%}
 {% include logo.html img="epfl.png"%}
