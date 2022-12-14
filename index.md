@@ -8,7 +8,7 @@ Welcome to the website for the [CHI2023](https://chi2023.acm.org/) workshop **Em
 
 ## Last year's workshop
 
-The website with the organizors, information, and accepted papers of last years workshop can be found [here](/2022/).
+The website with the organizers, information, and accepted papers of last years workshop can be found [here](/2022/).
 
 ## Format of the workshop
 
@@ -24,10 +24,9 @@ The preliminary schedule and more information can be found [here](/3-program.htm
 
 ## Important Dates
 
-- Paper submission: XXXX
-- Notification of acceptance: XXXX
-- Workshop day: XXXX
-
+- Paper submission: February 23, 2023
+- Notification of acceptance: approximately March 9, 2023
+- Workshop day: April 23, 2023
 
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
@@ -38,10 +37,6 @@ The preliminary schedule and more information can be found [here](/3-program.htm
 {% include logo.html img="uclic.png"%}
 {% include logo.html img="bristol.png"%}
 {% include logo.html img="epfl.png"%}
-</div>
-
-<div class="project">
-<!-- {% include logo.html img="periscope.jpg"%} -->
 </div>
 
 <!---
