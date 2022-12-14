@@ -23,13 +23,4 @@ nav: true
 ## Program Committee
 
 To be announced soon.
-<!-- - Wesley Hanwen Deng (Carnegie Mellon University)
-- Chun-hua Tsai (University of Nebraska)
-- Vasilis Milias (TU Delft)
-- Wo Meijer (TU Delft)
-- Andrea Tocchetti (Politecnico di Milano)
-- Yuan-Chi Tseng (National Tsing Hua University)
-- Elaine Czech (University of Bristol)
-- Ewan Soubutts (University of Oxford)
-- Aneesha Singh (University College London)
-- Sara Colombo (TU Eindhoven) -->
+
