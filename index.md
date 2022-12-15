@@ -32,6 +32,8 @@ The preliminary schedule and more information can be found [here](/3-program.htm
 {% include logo.html img="luxembourg.jpeg"%}
 {% include logo.html img="tudelft.png"%}
 {% include logo.html img="uclic.png"%}
+</div>
+<div class="logos">
 {% include logo.html img="bristol.png"%}
 {% include logo.html img="epfl.png"%}
 {% include logo.html img="logo-lyon1.png"%}
