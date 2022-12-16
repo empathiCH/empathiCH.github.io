@@ -6,7 +6,7 @@ nav: true
 ## Organizers
 <!-- TODO: add photos -->
 
-{% include organizer.html img="luce.jpeg" txt="<strong>Luce Drouet</strong> is a User Experience Researcher and Ph.D. candidate at the University of Luxembourg in the HCI research group. Her work focuses on empathy in service design, in the wider context of user-centered maturity in companies. She experiments with empathic design methods to facilitate sharing customers’ voices with service employees and to reduce silos in organizations. Luce works in partnership with the Luxembourgish Railway Service."%}
+{% include organizer.html img="luce2.jpeg" txt="<strong>Luce Drouet</strong> is a User Experience Researcher and Ph.D. candidate at the University of Luxembourg in the HCI research group. Her work focuses on empathy in service design, in the wider context of user-centered maturity in companies. She experiments with empathic design methods to facilitate sharing customers’ voices with service employees and to reduce silos in organizations. Luce works in partnership with the Luxembourgish Railway Service."%}
 
 {% include organizer.html img="wo.webp" txt="<strong>Wo Meijer</strong> (main contact) is an industrial designer and Ph.D. candidate at the Delft University of Technology (TU Delft, Netherlands). He has a background in Multi-Modal interactions in Virtual Reality with a focus on increasing presence, engagement, and empathy between and among people. His current research is focused on enhancing video as a user research method in order to help designers develop empathy for their users quickly and deeply."%}
 
