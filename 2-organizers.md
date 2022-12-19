@@ -10,7 +10,7 @@ nav: true
 
 {% include organizer.html img="wo.webp" txt="<strong>Wo Meijer</strong> (main contact) is an industrial designer and Ph.D. candidate at the Delft University of Technology (TU Delft, Netherlands). He has a background in Multi-Modal interactions in Virtual Reality with a focus on increasing presence, engagement, and empathy between and among people. His current research is focused on enhancing video as a user research method in order to help designers develop empathy for their users quickly and deeply."%}
 
-{% include organizer.html img="aisling.jpg" txt="<strong>Aisling Ann O'Kane</strong> is an Associate Professor in Human-Computer Interaction for Health at the University of Bristol and was the Deputy Director of the EPSRC CDT in Digital Health and Care. She has over ten years of experience studying the real world use of health and care technologies outside of clinical settings."%}
+{% include organizer.html img="aisling.png" txt="<strong>Aisling Ann O'Kane</strong> is an Associate Professor in Human-Computer Interaction for Health at the University of Bristol and was the Deputy Director of the EPSRC CDT in Digital Health and Care. She has over ten years of experience studying the real world use of health and care technologies outside of clinical settings."%}
 
 {% include organizer.html img="aneesha.jpg" txt="<strong>Aneesha Singh</strong> is an Associate Professor in Human-Computer Interaction at the UCL Interaction Centre. She is interested in the design, adoption and use of personal health and wellbeing technologies in everyday contexts, focusing on sensitive and stigmatized conditions. Her research areas include digital health, ubiquitous computing, multi-sensory feedback and wearable technology. She has previously worked in industry in various roles as a software consultant, and as a technical journalist."%}
 
@@ -18,9 +18,8 @@ nav: true
 
 {% include organizer.html img="andrea.jpg" txt="<strong>Andrea Mauri</strong> is a Junior Professor at Université Claude Bernard Lyon 1, affiliated with the Liris Research Lab. His research lies at the intersection of HCI and Data Management. He investigates how to integrate human factors --such as the concept of empathy-- in computational methods to design, develop and deploy data-intensive applications to make them aware of people features, needs, and values." %}
 
-{% include organizer.html img="himanshu.jpg" txt="<strong>Himanshu Verma</strong> is a Tenure-Track Assistant Professor at the Faculty of Industrial Design and Engineering at Delft University of Technology (TU Delft, Netherlands). He has a background in HCI, UbiComp and Social Cognition. He is interested in examining the internal mechanisms (comprised of latent, non-verbal and transient social signals) which enable or inhibit interpersonal collaborations, and his current research focuses on modeling reliable proxies of empathy and their broader implications for empathy-centric design."%}
+{% include organizer.html img="himanshu.png" txt="<strong>Himanshu Verma</strong> is a Tenure-Track Assistant Professor at the Faculty of Industrial Design and Engineering at Delft University of Technology (TU Delft, Netherlands). He has a background in HCI, UbiComp and Social Cognition. He is interested in examining the internal mechanisms (comprised of latent, non-verbal and transient social signals) which enable or inhibit interpersonal collaborations, and his current research focuses on modeling reliable proxies of empathy and their broader implications for empathy-centric design."%}
 
 ## Program Committee
 
 To be announced soon.
-

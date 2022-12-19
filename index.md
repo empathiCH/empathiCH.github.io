@@ -2,11 +2,11 @@
 title: Home
 nav: false
 ---
-# The EmpathiCH Workshop: Unraveling Empathy-Centric Design!
+# The EmpathiCH23 Workshop: Unraveling Empathy-Centric Design!
 
-Welcome to the website for the [CHI2023](https://chi2023.acm.org/) workshop **EmpathiCH**!
+## Welcome to the website for the [CHI2023](https://chi2023.acm.org/) workshop **EmpathiCH**
 
-We believe that there is a need to expand theories, novel assessment methods, and empirical studies to increase our understanding of empathy and support the human-centered design of technologies and services. In particular, we seek to 
+We believe that there is a need to expand theories, novel assessment methods, and empirical studies to increase our understanding of empathy and support the human-centered design of technologies and services. In particular, we seek to: 
 
 - **consolidate** the existing theoretical and conceptual constructs of empathy from diverse domains including Psychology, Social Sciences, Design, and HCI,
 - **coalesce** them to form a comprehensive and coherent framework that utilizes empathy as a new dimension of human-factors research and practice, 
@@ -17,17 +17,19 @@ This **full-day in person workshop** includes participants' presentations, an in
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda
 
-<!-- add the information of the workshop -->
+## Call For Participation
 
-## Program
-
-The preliminary schedule and more information can be found [here](/3-program.html).
+Read the call for participation [here](/1-cfp.html) or submit directly to [EasyChair](https://easychair.org/conferences/?conf=empathich2023)
 
 ## Important Dates
 
-- Paper submission: February 23, 2023
+- Paper submission: **February 23**, 2023
 - Notification of acceptance: TBA
 - Workshop day: April 23, 2023
+
+## Contact
+
+Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu)
 
 ## Last year's workshop
 
