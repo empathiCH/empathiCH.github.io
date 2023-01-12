@@ -22,4 +22,14 @@ nav: true
 
 ## Program Committee
 
-To be announced soon.
+- Luce Drouet (University of Luxembourg)
+- Wo Meijer (TU Delft)
+- Aisling Ann O'Kane (University of Bristol)
+- Aneesha Singh (University College London)
+- Thiemo Wambsganss (École Polytechnique Fédérale de Lausanne)
+- Andrea Mauri (Université Claude Bernard Lyon 1)
+- Himanshu Verma (Delft University of Technology)
+- Carine Lallemand (University of Luxembourg & TU Eindhoven)
+- Matthias Söllner (University of Kassel, Germany)
+- Benedetta Luis (Twente University)
+- Afra Pascual Almenara (University of Lleida)

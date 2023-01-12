@@ -19,7 +19,7 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 
 ## Call For Participation
 
-Read the call for participation [here](/1-cfp.html) or submit directly to [EasyChair](https://easychair.org/conferences/?conf=empathich2023)
+Read the call for participation [here](/1-cfp.html) or submit directly to [EasyChair](https://easychair.org/conferences/?conf=empathich2023).
 
 ## Important Dates
 
@@ -29,7 +29,10 @@ Read the call for participation [here](/1-cfp.html) or submit directly to [EasyC
 
 ## Contact
 
-Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu)
+Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
+
+## Organizers
+The organizers of the of the workshop are listed [here](/2-organizers.html).
 
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
