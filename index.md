@@ -2,15 +2,15 @@
 title: Home
 nav: false
 ---
-# The EmpathiCH23 Workshop: Unraveling Empathy-Centric Design!
+# The EmpathiCH'23 Workshop: Unraveling Empathy-Centric Design!
 
-## Welcome to the website for the [CHI2023](https://chi2023.acm.org/) workshop **EmpathiCH**
+## Welcome to the website for the second **EmpathiCH** workshop at [CHI2023](https://chi2023.acm.org/)
 
-We believe that there is a need to expand theories, novel assessment methods, and empirical studies to increase our understanding of empathy and support the human-centered design of technologies and services. In particular, we seek to: 
+We believe that there is a need to expand theories, novel assessment methods, and empirical studies to increase our understanding of empathy and support the human-centered design of technologies and services. In particular, we seek to:
 
 - **consolidate** the existing theoretical and conceptual constructs of empathy from diverse domains including Psychology, Social Sciences, Design, and HCI,
-- **coalesce** them to form a comprehensive and coherent framework that utilizes empathy as a new dimension of human-factors research and practice, 
-- **scrutinize** the seams of Empathy-Centric Design, specifically, the scenarios where it may come in conflict with human dignity, societal values and ethical principles (for example, instrumentalizing Empathy-Centric Design for large scale manipulation or abasement), and 
+- **coalesce** them to form a comprehensive and coherent framework that utilizes empathy as a new dimension of human-factors research and practice,
+- **scrutinize** the seams of Empathy-Centric Design, specifically, the scenarios where it may come in conflict with human dignity, societal values and ethical principles (for example, instrumentalizing Empathy-Centric Design for large scale manipulation or abasement), and
 - **examine** the overarching attributes of Empathy-Centric Design including its temporality and materiality. 
 
 This **full-day in person workshop** includes participants' presentations, an inspiring keynote talk, and a panel of experts.
@@ -30,10 +30,6 @@ Read the call for participation [here](/1-cfp.html) or submit directly to [EasyC
 ## Contact
 
 Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu)
-
-## Last year's workshop
-
-The website with the organizers, information, and accepted papers of last years workshop can be found [here](/2022/).
 
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
