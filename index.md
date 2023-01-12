@@ -6,16 +6,18 @@ nav: false
 
 ## Welcome to the website for the second **EmpathiCH** workshop at [CHI2023](https://chi2023.acm.org/)
 
+This [**full-day in person workshop**](/3-program.html) includes participants' presentations, an inspiring keynote talk, and a panel of experts.
+
+Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda
+
+## Goal
+
 We believe that there is a need to expand theories, novel assessment methods, and empirical studies to increase our understanding of empathy and support the human-centered design of technologies and services. In particular, we seek to:
 
 - **consolidate** the existing theoretical and conceptual constructs of empathy from diverse domains including Psychology, Social Sciences, Design, and HCI,
 - **coalesce** them to form a comprehensive and coherent framework that utilizes empathy as a new dimension of human-factors research and practice,
 - **scrutinize** the seams of Empathy-Centric Design, specifically, the scenarios where it may come in conflict with human dignity, societal values and ethical principles (for example, instrumentalizing Empathy-Centric Design for large scale manipulation or abasement), and
 - **examine** the overarching attributes of Empathy-Centric Design including its temporality and materiality. 
-
-This **full-day in person workshop** includes participants' presentations, an inspiring keynote talk, and a panel of experts.
-
-Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda
 
 ## Call For Participation
 
