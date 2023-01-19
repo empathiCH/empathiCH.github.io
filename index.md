@@ -26,7 +26,7 @@ Read the call for participation [here](/1-cfp.html) or submit directly to [EasyC
 ## Important Dates
 
 - Paper submission: **February 23**, 2023
-- Notification of acceptance: TBA
+- Notification of acceptance: **March 6th**, 2023
 - Workshop day: April 23, 2023
 
 ## Contact
