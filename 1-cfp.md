@@ -43,7 +43,10 @@ We invited a broad range of different types of papers, including:
 ## Review Process
 
 All submissions will be selected based on novelty, provocativeness, quality, and relevance to the workshop (i.e., related to Empathy-Centric Design topics and engaging discussion) through a rigorous, double-blind peer review process.
+
 The General Chair members will oversee the review process, including recruiting a Technical Program Committee (TPC) from previous authors of the EmpathiCH ’22 workshop and authors with expertise in the topic. GC will select three knowledgeable reviewers for each submission (at least one of them will be a member of the GC). Reviewers will share initial recommendations for conditional paper acceptance or rejection. Based on them, the GC members will take final accept/reject decisions for each submission during a dedicated meeting.
+
+Note: only minor revisions will be accepted and the submissions will be reviewed within 2 weeks.
 
 ## After Acceptance
 
