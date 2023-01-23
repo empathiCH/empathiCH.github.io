@@ -1,0 +1,11 @@
+<!-- hacky solution for header image -->
+<!-- inline css will kill me one day.... -->
+
+
+
+
+<div class="imagetitle" style="position: relative; text-align: center;">  
+    <img src="{{ include.img | prepend: '/images/' | relative_url }}" alt="{{ include.alt }}" class="headerImage">
+    <div class="headerImageOverlay"></div>
+    <div class="headerTitleDiv"><h1 class="headerText">{{include.txt}}</h1></div>
+  </div>

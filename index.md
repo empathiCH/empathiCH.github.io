@@ -2,13 +2,16 @@
 title: Home
 nav: false
 ---
-# The EmpathiCH'23 Workshop: Unraveling Empathy-Centric Design!
 
-## Welcome to the website for the second **EmpathiCH** workshop at [CHI2023](https://chi2023.acm.org/)
+{% include headerimage.html img="visual2HCIempathy.jpg" txt="The second <strong>EmpathiCH</strong> workshop at CHI2023" %}
 
+<!-- ![Empathy for all](/images/visual2HCIempathy.jpg) -->
+© Ochir-Erdene Oyunmedeg - [unsplash.com](unsplash.com)
+
+## EmpathiCH at CHI 2023
 This [**full-day in person workshop**](/3-program.html) includes participants' presentations, an inspiring keynote talk, and a panel of experts.
 
-Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda
+Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
 
 ## Goal
 
@@ -32,9 +35,9 @@ Read the call for participation [here](/1-cfp.html) or submit directly to [EasyC
 ## Contact
 
 Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
-
+<!-- 
 ## Organizers
-The organizers of the of the workshop are listed [here](/2-organizers.html).
+The organizers of the of the workshop are listed [here](/2-organizers.html). -->
 
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
