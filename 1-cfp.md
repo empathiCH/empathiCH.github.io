@@ -16,11 +16,13 @@ Submissions will be selected based on novelty, provocativeness, quality, and rel
 ## Important Dates
 
 - Paper submission: **February 23**, 2023
-- Notification of acceptance: **March 6th**, 2023
+- Notification of acceptance: **March 9th**, 2023
 - Workshop day: April 23, 2023
 
 
 ## Submission Format
+
+We are currently exploring options to publish the proceedings of the workshop.
 
 Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) and be anonymized according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)..
 
