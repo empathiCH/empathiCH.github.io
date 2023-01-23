@@ -1,5 +1,8 @@
 .DS_Store
 
-# Jekyll stuff
-.jekyll-cache/
-_site/
+# jekyll files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
