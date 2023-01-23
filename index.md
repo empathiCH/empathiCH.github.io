@@ -24,7 +24,7 @@ We believe that there is a need to expand theories, novel assessment methods, an
 
 ## Call For Participation
 
-Read the call for participation [here](/1-cfp.html) or submit a **anonymized** (according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)) to [EasyChair](https://easychair.org/conferences/?conf=empathich2023).
+Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](https://easychair.org/conferences/?conf=empathich2023)( ensure it is **anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)) .
 
 ## Important Dates
 
