@@ -33,3 +33,8 @@ nav: true
 - Matthias Söllner (University of Kassel, Germany)
 - Benedetta Luis (Twente University)
 - Afra Pascual Almenara (University of Lleida)
+- Kerstin Bongard-Blanchy, University of Luxembourg
+- Andrea Tocchetti, Politecnico di MIlano
+- Timothy Min, Georgia Tech
+- Alina Lushnikova, University of Luxembourg
+- Anuschka Schmitt, University of St.Gallen / Havard

@@ -15,19 +15,19 @@ Submissions will be selected based on novelty, provocativeness, quality, and rel
 
 ## Important Dates
 
-- Paper submission: February 23, 2023
-- Notification of acceptance: approximately March 9, 2023
-- Camera-ready submission: TBA
+- Paper submission: **February 23**, 2023
+- Notification of acceptance: **March 6th**, 2023
 - Workshop day: April 23, 2023
 
 
 ## Submission Format
 
-Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) be selected based on novelty, provocativeness, quality, and relevance to the workshop (i.e., related to Empathy-Centric Design topics and engaging discussion) through a rigorous, double-blind peer review process.
+Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) and be anonymized according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)..
 
 - Submissions should include a 4-6 page manuscript (excluding references) using the ACM Master Article Submission Template (single column). Here you find the templates for [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx), and [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
-- If you use latex, please use: ``documentclass [sigconf, review] {acmart}``.
-- The manuscripts need to be **anonymized**.
+
+- Again: manuscripts **need to be anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/).
+- If you use latex, please use: ``documentclass [sigconf, review, anonymous] {acmart}``.
 
 ## Submission Types
 
@@ -39,6 +39,11 @@ We invited a broad range of different types of papers, including:
 - **Work-in-progress**: a study, a research project in progress on Empathy-Centric Design topics
 - **Demos**: prototypes and new technology concepts that will be tested during the workshop (including a description of what attendees will experience through the demos) related to Empathy-Centric Design topics
 - **Pictorials**: visual components (e.g., diagrams, sketches, illustrations, renderings, photographs, annotated photographs, and collages) accompanying text to convey new ideas and contribute to Empathy-Centric Design
+
+## Review Process
+
+All submissions will be selected based on novelty, provocativeness, quality, and relevance to the workshop (i.e., related to Empathy-Centric Design topics and engaging discussion) through a rigorous, double-blind peer review process.
+The General Chair members will oversee the review process, including recruiting a Technical Program Committee (TPC) from previous authors of the EmpathiCH ’22 workshop and authors with expertise in the topic. GC will select three knowledgeable reviewers for each submission (at least one of them will be a member of the GC). Reviewers will share initial recommendations for conditional paper acceptance or rejection. Based on them, the GC members will take final accept/reject decisions for each submission during a dedicated meeting.
 
 ## After Acceptance
 
