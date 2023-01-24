@@ -1,8 +1,10 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <!-- add the logo -->
+    
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img src="https://empathich.com/images/workshop_logo.png" alt="EmpathiCHi" class="nav-logo">{{ site.title | escape }}</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
