@@ -6,6 +6,9 @@
 }
 .site-nav .active, .site-footer .active {
     text-decoration: underline;
+    // make it bold
+    font-weight: bold;
+    text-emphasis: bold;
     color: $active-color;
 }
 
@@ -80,6 +83,19 @@ th, td {
 
 .headerText{
     color: white;
-    font-weight: bold;
     text-align: center;
+    font-size: 3vmax;
+}
+
+.nav-logo {
+    width: 46px;
+    height: 46px;
+    overflow: hidden;
+    margin-top: -6px;
+
+}
+
+// increase bold font weight
+strong, b {
+    font-weight: 600;
 }

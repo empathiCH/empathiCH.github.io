@@ -2,29 +2,40 @@
 # front matter
 ---
 
+// // custom colors
+// $white: #FCFDFEff;
+// $princeton-orange: #E8791Aff;
+// $blue-ryb: #3C46FFff;
+// $honey-yellow: #FCAF01ff;
+
 /* basic color customizations */
 $border-color: #424242;
-$link-color: #2a7ae2 !default;
-$active-color: #2a7ae2;
+$link-color: #3C46FFff !default;
+$active-color: #E8791Aff;
 $text-color:#111 !default;
-$headings-color: #2860aa;
-$background-color: #fdfdfd !default;
+$headings-color: #E8791Aff;
+$background-color: #FCFDFEff !default;
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Noto+Sans:wght@400;600&display=swap');
 
 /* font base */ 
-@font-face {
-  font-family: 'Noto Sans';
-  src:  url('fonts/notosans-regular-webfont.woff') format('woff');
-}
+// @font-face {
+//   font-family: 'Noto Sans';
+//   src:  url('fonts/notosans-regular-webfont.woff') format('woff');
+// }
 @font-face {
   font-family: 'Source Code Pro';
   src:  url('fonts/sourcecodepro-regular-webfont.woff') format('woff');
 }
 $base-font-family: 'Noto Sans', Helvetica, Arial, sans-serif !default;
 $code-font-family: 'Source Code Pro', monospace;
+$headings-font-family: 'Arvo', serif;
 
 /* layout base */
 $base-font-size:   16px !default;
-$base-font-weight: 500 !default;
+$base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
