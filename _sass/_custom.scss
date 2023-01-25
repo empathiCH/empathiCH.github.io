@@ -77,15 +77,23 @@ th, td {
 .headerTitleDiv{
     position: absolute;
     top: 0%;
-    left: 50%;
-    transform: translate(-50%, 0%);
+    left: 16px;
+    margin-right: 30vw;
 }
 
 .headerText{
     color: white;
-    text-align: center;
-    font-size: 3vmax;
+    text-align: left;
+    font-size: 4vmax;
+    font-weight: 700;
 }
+@supports (-webkit-text-stroke: 1px gray) {
+    .headerText {
+      -webkit-text-stroke: 1px gray;
+      -webkit-text-fill-color: white;
+    }
+  }
+
 
 .nav-logo {
     width: 46px;

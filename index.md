@@ -3,10 +3,10 @@ title: Home
 nav: false
 ---
 
-{% include headerimage.html img="visual2HCIempathy.jpg" txt="The second <strong>EmpathiCH</strong> workshop at CHI2023" %}
+{% include headerimage.html img="visual2HCIempathy.png" txt="The second <strong>EmpathiCH</strong> workshop at CHI2023" %}
 
 <!-- ![Empathy for all](/images/visual2HCIempathy.jpg) -->
-© Ochir-Erdene Oyunmedeg - [unsplash.com](unsplash.com)
+<sub> © Ochir-Erdene Oyunmedeg - [unsplash.com](unsplash.com) </sub>
 
 ## EmpathiCH at CHI 2023
 This [**full-day in person workshop**](/3-program.html) includes participants' presentations, an inspiring keynote talk, and a panel of experts.
