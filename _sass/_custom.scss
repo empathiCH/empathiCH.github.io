@@ -82,15 +82,13 @@ th, td {
 }
 
 .headerText{
-    color: white;
     text-align: left;
     font-size: 4vmax;
-    font-weight: 700;
 }
 @supports (-webkit-text-stroke: 1px gray) {
     .headerText {
-      -webkit-text-stroke: 1px gray;
-      -webkit-text-fill-color: white;
+      -webkit-text-stroke: 1px darken($headings-color, 5%);
+
     }
   }
 
