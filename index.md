@@ -3,7 +3,7 @@ title: Home
 nav: false
 ---
 
-{% include headerimage.html img="visual2HCIempathy.png" txt="The second <strong>EmpathiCH</strong> workshop at CHI2023" %}
+{% include headerimage.html img="visual2HCIempathy.png" txt="The second <br><strong>EmpathiCH</strong> <br> workshop<br>at CHI2023" %}
 
 <!-- ![Empathy for all](/images/visual2HCIempathy.jpg) -->
 <sub> © Ochir-Erdene Oyunmedeg - [unsplash.com](unsplash.com) </sub>

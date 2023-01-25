@@ -83,11 +83,21 @@ th, td {
 
 .headerText{
     text-align: left;
-    font-size: 4vmax;
+    font-size: 3em;
+    color: white;
 }
+
+// at a screen width of 768px or less, the header text will be 3vmin   
+@media screen and (max-width: 768px) {
+    .headerText{
+        font-size: 3vmax;
+    }
+}
+
+
 @supports (-webkit-text-stroke: 1px gray) {
     .headerText {
-      -webkit-text-stroke: 1px darken($headings-color, 5%);
+      -webkit-text-stroke: 1px $grey-color;
 
     }
   }
