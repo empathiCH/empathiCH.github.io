@@ -45,3 +45,4 @@ names_and_imgs:
 - Meegahapola Lakmal (EPFL Switzerland)
 - Allie Lahnala (University of Marburg)
 - Jasmin Niess (University of Oslo)
+- Nadine Wagener (University of Bremen)
