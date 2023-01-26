@@ -21,5 +21,3 @@ If you are adding a workshop to your existing registration, [CLICK HERE](https:/
 - Select **W18: Empathy-Centric Design At Scale** from the dropdown and click “Next” at the bottom
 - Enter **AccessW18** in the code box
 - Follow through to complete the addition by making a payment and clicking “Finish”
-
-

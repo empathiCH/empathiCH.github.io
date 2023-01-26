@@ -34,8 +34,6 @@
     margin-bottom: 0.5em;
 }
 .organizer-img{
-    margin-right: 1em;
-    width: 80%;
     // round the images
     border-radius: 50%;
 }
@@ -126,3 +124,13 @@ th, td {
 strong, b {
     font-weight: 600;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 10px;
+  }
+  .grid-item {
+    padding: 2em;
+    text-align: center;
+  }

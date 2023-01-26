@@ -1,0 +1,8 @@
+<div class="grid-container">
+    {% for name_and_img in page.names_and_imgs %}
+    <div class="grid-item">
+        <img class="organizer-img" src="{{ name_and_img.img_url }}" alt="{{ name_and_img.name }}">
+        <h3>{{ name_and_img.name }}</h3>
+    </div>
+    {% endfor %} 
+</div> 
