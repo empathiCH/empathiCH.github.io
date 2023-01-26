@@ -33,10 +33,13 @@ nav: true
 - Himanshu Verma (Delft University of Technology)
 - Carine Lallemand (University of Luxembourg & TU Eindhoven)
 - Matthias Söllner (University of Kassel, Germany)
+- Anuschka Schmitt (University of St.Gallen / Havard)
 - Benedetta Luis (Twente University)
 - Afra Pascual Almenara (University of Lleida)
-- Kerstin Bongard-Blanchy, University of Luxembourg
-- Andrea Tocchetti, Politecnico di MIlano
-- Timothy Min, Georgia Tech
-- Alina Lushnikova, University of Luxembourg
-- Anuschka Schmitt, University of St.Gallen / Havard
+- Kerstin Bongard-Blanchy (University of Luxembourg)
+- Andrea Tocchetti (Politecnico di MIlano)
+- Timothy Min (Georgia Tech)
+- Alina Lushnikova (University of Luxembourg)
+- Meegahapola Lakmal (EPFL Switzerland)
+- Allie Lahnala (University of Marburg)
+- Jasmin Niess (University of Oslo)
