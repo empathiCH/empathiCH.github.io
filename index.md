@@ -29,7 +29,7 @@ Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](htt
 ## Important Dates
 
 - Paper submission: **February 23**, 2023
-- Notification of acceptance: **March 9th**, 2023
+- Notification of acceptance: **March 6th**, 2023
 - Workshop day: April 23, 2023
 
 ## Contact

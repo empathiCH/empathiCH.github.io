@@ -4,18 +4,25 @@ nav: true
 names_and_imgs:
   - name: Luce Drouet
     img_url: /images/luce2.jpeg
+    affiliation: University of Luxembourg
   - name: Himanshu Verma
     img_url: /images/himanshu.png
+    affiliation: TU Delft
   - name: Wo Meijer
     img_url: /images/wo.webp
+    affiliation: TU Delft
   - name: Andrea Mauri
     img_url: /images/andrea.jpg
+    affiliation: Université Claude Bernard Lyon 1
   - name: Aisling Ann O'Kane
     img_url: /images/aisling.png
+    affiliation: University of Bristol
   - name: Aneesha Singh
     img_url: /images/aneesha.jpg
+    affiliation: UCL Interaction Centre
   - name: Thiemo Wambsganss
     img_url: /images/thiemo.jpeg
+    affiliation: Swiss Federal Institute of Technology in Lausanne
 
 
 ---
