@@ -8,7 +8,8 @@ nav: false
 <!-- ![Empathy for all](/images/visual2HCIempathy.jpg) -->
 <sub> © Ochir-Erdene Oyunmedeg - [unsplash.com](unsplash.com) </sub>
 
-## EmpathiCH at CHI 2023
+## EmpathiCH: Unravelling Empathy-Centric Design
+
 This [**full-day in person workshop**](/3-program.html) includes participants' presentations, an inspiring keynote talk, and a panel of experts.
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
