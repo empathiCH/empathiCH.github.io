@@ -34,11 +34,11 @@ names_and_imgs:
 
 - Carine Lallemand (University of Luxembourg & TU Eindhoven)
 - Matthias Söllner (University of Kassel, Germany)
-- Anuschka Schmitt (University of St.Gallen / Havard)
+- Anuschka Schmitt (University of St.Gallen / Harvard)
 - Benedetta Luis (Twente University)
 - Afra Pascual Almenara (University of Lleida)
 - Kerstin Bongard-Blanchy (University of Luxembourg)
-- Andrea Tocchetti (Politecnico di MIlano)
+- Andrea Tocchetti (Politecnico di Milano)
 - Timothy Min (Georgia Tech)
 - Alina Lushnikova (University of Luxembourg)
 - Meegahapola Lakmal (EPFL Switzerland)
