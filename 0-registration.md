@@ -3,25 +3,20 @@ title: Registration
 nav: true
 ---
 
-Registration details for CHI 2023 will be updated shortly.
+## Registration Instructions
 
-<!-- To register to the workshop please follow the following instructions:
+### If you are not yet registered for CHI, CLICK THIS LINK: [<https://cvent.me/YbG5VD>](https://cvent.me/YbG5VD)
 
-If you are not yet registered for CHI, [CLICK HERE](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary).
+- Scroll to the bottom of the page and select the appropriate category button (Member or Non-Member) to begin your registration.
+- Register - fill in all the required information needed for registration to attend CHI 2023.
+- Proceed to the Optional Items page – select the workshop from the list and enter the invitation code AccessW34 at the bottom of the page.
+- Continue through registration to complete by making a payment and clicking “Submit”. A confirmation email is automatically generated.
 
-- Scroll to the bottom of the page and select the Member or Non-Member button to begin your registration 
-- Fill in all of the required information
-- Proceed to the Optional Items page and select **W18: Empathy-Centric Design At Scale** from dropdown list and click next at the bottom of the page
-- Enter **AccessW18** in the code box
-- Follow through to complete the addition, making a payment, if necessary and click “Finish”
- 
-If you are adding a workshop to your existing registration, [CLICK HERE](https://web.cvent.com/event/39da8b29-3829-4548-829e-750fc9dd732e/summary)
-- Scroll to the bottom of this page and click “Already Registered?”
-- Enter your email address and confirmation code – found in your confirmation email
-- Click “OK” to proceed, then select “Modify” on the next page
-- Proceed through your registration (“Next” until the Optional Items page) to add your workshop
-- Select **W18: Empathy-Centric Design At Scale** from the dropdown and click “Next” at the bottom
-- Enter **AccessW18** in the code box
-- Follow through to complete the addition by making a payment and clicking “Finish” -->
+### If you are adding a workshop or symposium to your existing registration, CLICK THIS LINK: [<https://cvent.me/YbG5VD>](https://cvent.me/YbG5VD)
 
-
+- Scroll toward the bottom and click on the “Already Registered” option. Do not begin a new registration if you are already registered for CHI 2023.
+- Enter your email address and confirmation code – found in your confirmation email.
+- Click “Login” to proceed, then select “Modify Registration” towards the bottom of the next page.
+- Proceed through your registration (“Next” button until the Optional Items page) to add the desired workshop.
+- Select your workshop/symposium from the list, enter your invitation code and AccessW34 and click “Next” at the bottom.
+- Follow through to complete the addition by making a payment and clicking “Submit”.
