@@ -22,7 +22,10 @@ Submissions will be selected based on novelty, provocativeness, quality, and rel
 
 ## Submission Format
 
-We are currently exploring options to publish the proceedings of the workshop.
+We are proud to announce that accepted papers will be published in ACM’s International Conference Proceedings Series!
+<div class="logos">
+{% include logo.html img="acm_icps_v2b_logo.jpg"%}
+</div>
 
 Submissions should be submitted via Easychair ([link](https://easychair.org/conferences/?conf=empathich2023)) and be anonymized according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)..
 
@@ -55,6 +58,11 @@ Note: only minor revisions will be accepted, and the submissions will be reviewe
 After acceptance, we will ask the authors to prepare a final camera-ready version and a summary of changes to be reviewed by the program committee before final acceptance. Authors will also be asked to prepare a 4-8 minute video summarizing their work, which we will publish on the EmpathiCH workshop website. One week before the workshop, we will ask the participants to familiarize themselves with the papers and the videos. Additionally, we will invite all authors to join a special Slack channel to facilitate informal communication.
 
 At least one author of each accepted paper must attend the workshop, and all participants must register for the workshop for at least one day of the conference.
+
+Finally the camera-ready version of the paper will be published in ACM’s International Conference Proceedings Series.
+<div class="logos">
+{% include logo.html img="acm_icps_v2b_logo.jpg"%}
+</div>
 
 ## Contact
 

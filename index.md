@@ -25,7 +25,12 @@ We believe that there is a need to expand theories, novel assessment methods, an
 
 ## Call For Participation
 
-Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](https://easychair.org/conferences/?conf=empathich2023) (ensure it is **anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)) .
+Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](https://easychair.org/conferences/?conf=empathich2023) (ensure it is **anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)).
+
+Furthermore we are pleased to announce that accepted papers will be published in ACM’s International Conference Proceedings Series!
+<div class="logos">
+{% include logo.html img="acm_icps_v2b_logo.jpg"%}
+</div>
 
 ## Important Dates
 
@@ -37,7 +42,7 @@ Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](htt
 
 Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
 
-
+## in association with:
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
 {% include logo.html img="tudelft.png"%}
