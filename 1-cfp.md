@@ -32,7 +32,7 @@ Submissions should be submitted via Easychair ([link](https://easychair.org/conf
 - Submissions should include a 4-6 page manuscript (excluding references) using the ACM Master Article Submission Template (single column). Here you find the templates for [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx), and [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
 
 - Again: manuscripts **need to be anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/).
-- If you use latex, please use: ``documentclass [sigconf, review, anonymous] {acmart}``.
+- If you use latex, please use: ``documentclass [manuscript, review, anonymous] {acmart}``.
 
 ## Submission Types
 
