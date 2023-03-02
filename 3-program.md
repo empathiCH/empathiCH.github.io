@@ -21,8 +21,8 @@ panelists:
     affiliation: Professor at University of Marburg 
     url: https://lucieflek.github.io/
     img_url: https://caisa-lab.github.io/images/team/lucie_flek.jpg
-  - name: Mädche Alexander 
-    affiliation: Karlsruhe Institute of Technology
+  - name: Alexander Mädche 
+    affiliation: Professor at Karlsruhe Institute of Technology
     url: https://h-lab.iism.kit.edu/team_maedche.php
     img_url: https://h-lab.iism.kit.edu/img/Alexander%20M%c3%a4dche_rdax_230x324s.jpg
   - name: Giulia Barbareschi	
