@@ -38,13 +38,13 @@
     border-radius: 50%;
 }
 
-.panelist_grid {
+.panelist-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 //   grid-template-columns: repeat(2, 1fr); /* Set to 2 columns with equal width */
   grid-gap: 10px; /* Change 10px to your desired gap */
 }
-.keynote_grid {
+.keynote-grid {
     display: grid;
     // grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-template-columns: repeat(2, 1fr); /* Set to 2 columns with equal width */
