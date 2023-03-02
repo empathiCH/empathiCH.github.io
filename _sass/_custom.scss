@@ -38,6 +38,30 @@
     border-radius: 50%;
 }
 
+.panelist_grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+//   grid-template-columns: repeat(2, 1fr); /* Set to 2 columns with equal width */
+  grid-gap: 10px; /* Change 10px to your desired gap */
+}
+.keynote_grid {
+    display: grid;
+    // grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 1fr); /* Set to 2 columns with equal width */
+  grid-gap: 10px; /* Change 10px to your desired gap */
+}
+
+.panelist-img{
+    // round the images
+    border-radius: 25%;
+    // make the image square
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* This will crop the image to the specified aspect ratio */
+    aspect-ratio: 1/1; 
+
+}
+
 .panelist {
     display: inline-table;
     width: 40%;

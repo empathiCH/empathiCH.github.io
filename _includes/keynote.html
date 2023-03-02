@@ -1,0 +1,11 @@
+<div class="keynote_grid">
+    {% for person in page.keynote %}
+    <a href="{{ person.url }}">
+        <div class="grid-item">
+            <img class="panelist-img" src="{{ person.img_url }}" alt="{{ person.name }}">
+            <h3>{{ person.name }}</h3>
+            <p>{{ person.affiliation }}</p>
+        </div>
+    </a>
+    {% endfor %} 
+</div> 

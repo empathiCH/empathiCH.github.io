@@ -42,7 +42,7 @@ Furthermore we are pleased to announce that accepted papers will be published in
 
 Please direct any and all questions to Wo Meijer (w.i.m.t.meijer@tudelft.nl) or Luce Drouet (luce.drouet@uni.lu).
 
-## in association with:
+## In association with:
 <div class="logos">
 {% include logo.html img="luxembourg.jpeg"%}
 {% include logo.html img="tudelft.png"%}
