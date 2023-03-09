@@ -15,9 +15,9 @@ Submissions will be selected based on novelty, provocativeness, quality, and rel
 
 ## Important Dates
 
-- Paper submission: **February 23**, 2023
-- Notification of acceptance: **March 6th**, 2023
-- Workshop day: April 23, 2023
+- ~~Paper submission: February 23, 2023~~
+- ~~Notification of acceptance: March 6th, 2023~~
+- **Workshop day: April 23, 2023**
 
 
 ## Submission Format
