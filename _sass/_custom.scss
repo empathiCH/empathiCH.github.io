@@ -158,3 +158,31 @@ strong, b {
     padding: 2em;
     text-align: center;
   }
+
+.tpc-grid-container{
+    display: grid;
+    grid-gap: 10px;
+    // the grid will have 2 columns, tpc-name-grid-item (width 150px) and tpc-img-grid 
+    grid-template-columns: 150px 1fr;
+}
+.tpc-name-grid-item{
+    padding: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+.tpc-img-grid{
+    // round the images
+ 
+}
+
+
+.tpc-img{
+    // round the images
+    border-radius: 50%;
+    // make the image square
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* This will crop the image to the specified aspect ratio */
+    aspect-ratio: 1/1; 
+
+}

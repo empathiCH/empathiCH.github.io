@@ -1,0 +1,11 @@
+<div class="tpc-grid-container">
+    {% for name_and_img in page.tpc %}
+    <div class="tpc-img-grid">
+        <img class="tpc-img" src="{{ name_and_img.img }}" alt="{{ name_and_img.name }}">
+    </div>
+    <div class="tpc-name-grid">
+        <h3>{{ name_and_img.name }}</h3>
+        <p>{{ name_and_img.affiliation }}</p>
+    </div>
+    {% endfor %} 
+</div> 
