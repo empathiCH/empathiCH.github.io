@@ -18,6 +18,7 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 
 - ~~Paper submission: February 23, 2023~~
 - ~~Notification of acceptance: March 6th, 2023~~
+- Final revision deadline: Friday March 17th, 2023 AoE.
 - **Workshop day: April 23, 2023**
 
 ## Registration
