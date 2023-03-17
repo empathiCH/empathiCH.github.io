@@ -10,7 +10,7 @@ nav: false
 
 ## EmpathiCH: Unravelling Empathy-Centric Design
 
-EmpathiCH is a [full-day workshop](/3-program.html) at CHI '23 that includes participants' presentations, an inspiring keynote talk, and a panel of experts.
+EmpathiCH is a [full-day workshop](/3-program.html) at CHI '23 that includes participants' presentations, two inspiring keynote talks, and a panel of experts.
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
 
@@ -33,15 +33,6 @@ We believe that there is a need to expand theories, novel assessment methods, an
 - **coalesce** them to form a comprehensive and coherent framework that utilizes empathy as a new dimension of human-factors research and practice,
 - **scrutinize** the seams of Empathy-Centric Design, specifically, the scenarios where it may come in conflict with human dignity, societal values and ethical principles (for example, instrumentalizing Empathy-Centric Design for large scale manipulation or abasement), and
 - **examine** the overarching attributes of Empathy-Centric Design including its temporality and materiality. 
-
-## Call For Participation
-
-Read the call for participation [here](/1-cfp.html) or submit to [EasyChair](https://easychair.org/conferences/?conf=empathich2023) (ensure it is **anonymized** according to the [CHI anonymization policy](https://chi2023.acm.org/submission-guides/chi-anonymization-policy/)).
-
-Furthermore we are pleased to announce that accepted papers will be published in ACM’s International Conference Proceedings Series!
-<div class="logos">
-{% include logo.html img="acm_icps_v2b_logo.jpg"%}
-</div>
 
 
 ## Contact

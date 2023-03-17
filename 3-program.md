@@ -4,13 +4,13 @@ nav: true
 
 keynote:
   - name: Madeline Balaam
-    affiliation: Associate Professor KTH Stockholm
+    affiliation: Associate Professor in Interaction Design, KTH Stockholm
     url: https://www.kth.se/profile/balaam
     img_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bUWUT0-ATIb-Rwxzhc-pDCREWDJEAXQWHzGJ2swL267uek8j
-  - name: To Be Announced
-    affiliation: Mystery Guest
-    url: https://empathich.com/
-    img_url: images/workshop_logo.png
+  - name: Katta Spiel
+    affiliation: Assistant Professor in (Critical) Participatory Design and Action Research, TU Wien
+    url: https://katta.mere.st/
+    img_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeIzUhbZGuzrdoIkMuG0bunmJtG8fyIVnmnMMYDOjxxkluyuT
 
 panelists:
   - name: Wina Smeenk	
@@ -34,7 +34,7 @@ panelists:
 
 
 ## Program
-We will provide a detailed program soon. However we are very pleased to announce our keynote speaker and expert panelists.
+We will provide a detailed program soon. However we are very pleased to announce our keynote speakers and expert panelists.
 
 ### Keynote Speakers:
 
