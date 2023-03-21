@@ -8,7 +8,7 @@ keynote:
     url: https://www.kth.se/profile/balaam
     img_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bUWUT0-ATIb-Rwxzhc-pDCREWDJEAXQWHzGJ2swL267uek8j
   - name: Katta Spiel
-    affiliation: Assistant Professor in (Critical) Participatory Design and Action Research, TU Wien
+    affiliation: Hertha Firnberg Scholar in (Critical) Participatory Design and Action Research
     url: https://katta.mere.st/
     img_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeIzUhbZGuzrdoIkMuG0bunmJtG8fyIVnmnMMYDOjxxkluyuT
 
@@ -29,6 +29,15 @@ panelists:
     affiliation: Disability, Innovation, and Assistive Technology Researcher, UCL.	
     url: https://uclic.ucl.ac.uk/people/giulia-barbareschi
     img_url: /images/panel/Giulia.jpg
+  - name: Cindy Bennett
+    affiliation: Senior Research Scientist in Google's People + AI Research group.	
+    url: https://www.bennettc.com/
+    img_url: https://www.bennettc.com/wp-content/uploads/2022/02/15_red-shirt-walnut-street-with-cane-smiling-close-up-urban-background-1.jpg
+  - name: Reem Talhouk
+    affiliation: Northumbria University.	
+    url: https://reemtalhouk.com/
+    img_url: https://reemtalhouk.files.wordpress.com/2020/09/reem.jpeg
+
 ---
 
 
@@ -37,7 +46,8 @@ panelists:
 We will provide a detailed program soon. However we are very pleased to announce our keynote speakers and expert panelists.
 
 ### Keynote Speakers:
-
+<!-- TODO add title of the talks -->
+<!-- Abstract of talk -->
 {% include keynote.html %}
 
 ### Expert Panel:
