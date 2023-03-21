@@ -1,6 +1,6 @@
 ---
 title: Call for Participation
-nav: true
+nav: false
 ---
 <!-- TODO: update this to the copy that Luce wrote -->
 While HCI and design research acknowledged the importance of empathy to the design of user-centered technologies and services, there remain open questions about: assessing empathy, its diversity, and related tensions.
