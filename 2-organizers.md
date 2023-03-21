@@ -74,18 +74,4 @@ tpc:
 
 {% include tpc_member.html %}
 
-(if there is a mistake or you want to add your picture, please contact us)
-
-<!-- - Carine Lallemand (University of Luxembourg & TU Eindhoven)
-- Matthias Söllner (University of Kassel, Germany)
-- Anuschka Schmitt (University of St.Gallen / Harvard)
-- Benedetta Luis (Twente University)
-- Afra Pascual Almenara (University of Lleida)
-- Kerstin Bongard-Blanchy (University of Luxembourg)
-- Andrea Tocchetti (Politecnico di Milano)
-- Timothy Min (Georgia Tech)
-- Alina Lushnikova (University of Luxembourg)
-- Meegahapola Lakmal (EPFL Switzerland)
-- Allie Lahnala (University of Marburg)
-- Jasmin Niess (University of Oslo)
-- Nadine Wagener (University of Bremen) -->
+<sub>(if there is a mistake or you want to change your photo, please contact us)</sub>

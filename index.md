@@ -10,7 +10,7 @@ nav: false
 
 ## EmpathiCH: Unravelling Empathy-Centric Design
 
-EmpathiCH is a [full-day workshop](/3-program.html) at CHI '23 that includes participants' presentations, two inspiring keynote talks, and a panel of experts.
+EmpathiCH is a [full-day workshop](/3-program.html) at CHI '23 that includes participants' presentations, [two inspiring keynote talks](/5-keynote.html), and a [panel of experts](/6-panel.html).
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
 
@@ -18,7 +18,7 @@ Stimulated by this discussion, the expertise, and experiences of the participant
 
 - ~~Paper submission: February 23, 2023~~
 - ~~Notification of acceptance: March 6th, 2023~~
-- Final revision deadline: Friday March 17th, 2023 AoE.
+- ~~Final revision deadline: Friday March 17th, 2023 AoE.~~
 - **Workshop day: April 23, 2023**
 
 ## Registration
