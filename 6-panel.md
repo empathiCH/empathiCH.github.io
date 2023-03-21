@@ -1,6 +1,6 @@
 ---
 title: Panel
-nav: true
+nav: false
 
 panelists:
   - name: Wina Smeenk	
