@@ -3,14 +3,14 @@
             <div class="grid-item">
                 <img class="tpc-img" src="{{ person.img_url }}" alt="{{ person.name }}">
             </div>
-            <div>
+            <div class="keynote-info">
                 <h3><a id="{{person.name}}" href="{{ person.url }}">{{ person.name }}</a></h3>
                 <h5>{{ person.affiliation }}</h5>
                 <p></p>
                 <h4>{{person.title}}</h4>
                 <p>{{person.abstract}}</p>
-                <h6>Bio:</h6>
-                <p>{{ person.bio }}</p>
+                <h5>Bio:</h5>
+                <p class="keynote-bio">{{ person.bio }}</p>
                 <p></p>
             </div>
     {% endfor %} 
