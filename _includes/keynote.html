@@ -4,13 +4,13 @@
                 <img class="tpc-img" src="{{ person.img_url }}" alt="{{ person.name }}">
             </div>
             <div>
-                <h3><a id="{{person.name}}">{{ person.name }}</a></h3>
+                <h3><a id="{{person.name}}" href="{{ person.url }}">{{ person.name }}</a></h3>
                 <h5>{{ person.affiliation }}</h5>
-                <a href="{{ person.url }}">{{person.url}}</a>
-                <p>{{ person.bio }}</p>
                 <p></p>
                 <h4>{{person.title}}</h4>
                 <p>{{person.abstract}}</p>
+                <h6>Bio:</h6>
+                <p>{{ person.bio }}</p>
                 <p></p>
             </div>
     {% endfor %} 

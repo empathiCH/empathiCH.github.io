@@ -5,9 +5,9 @@ nav: true
 
 ## Accepted Papers
 
+The list of accepted papers will be published here soon.
 
 ## Call for Participation
-<!-- TODO: update this to the copy that Luce wrote -->
 While HCI and design research acknowledged the importance of empathy to the design of user-centered technologies and services, there remain open questions about: assessing empathy, its diversity, and related tensions.
 
 In this one-day interactive workshop, we will consolidate existing theories and conceptualization of empathy, coalesce them to form a comprehensive and coherent framework, scrutinize the seams, and examine the overarching attributes of Empathy-Centric Design. This will lead to the formulation of its research agenda.
@@ -22,7 +22,7 @@ Submissions will be selected based on novelty, provocativeness, quality, and rel
 
 - ~~Paper submission: February 23, 2023~~
 - ~~Notification of acceptance: March 6th, 2023~~
-- Final revision deadline: Friday March 17th, 2023 AoE.
+- ~~Final revision deadline: Friday March 17th, 2023 AoE.~~
 - **Workshop day: April 23, 2023**
 
 ## Submission Format

@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Join
 nav: true
 ---
 

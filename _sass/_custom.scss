@@ -180,7 +180,6 @@ text-align: center;
     gap: 100px 10px;
     // the grid will have 2 columns, tpc-name-grid-item (width 150px) and tpc-img-grid 
     grid-template-columns: 250px 1fr;
-
 }
 
 
@@ -192,5 +191,37 @@ text-align: center;
     height: auto;
     object-fit: cover; /* This will crop the image to the specified aspect ratio */
     aspect-ratio: 1/1; 
-
 }
+
+.program-grid-container{
+    display: grid;
+    gap: 10px 0;
+    // the grid will have 2 columns, tpc-name-grid-item (width 150px) and tpc-img-grid 
+    grid-template-columns: 2fr 5fr;
+    // add a border between the rows
+}
+.program-desc{
+    border-bottom: 1px solid lightgrey;
+    // h3 in the program description should not have bottom margin
+    h4{
+        margin-bottom: 0;
+    }
+    p{
+        // margin-bottom: 10px;
+    }
+}
+.program-time{
+    border-bottom: 1px solid lightgrey;
+
+        display: flex;
+        align-items: center;
+        justify-content: right;
+      
+    h3{
+        margin-bottom: 0;
+        margin-right: 20px;
+
+    }
+}
+
+
