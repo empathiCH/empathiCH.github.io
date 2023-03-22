@@ -1,6 +1,6 @@
 ---
 title: Keynotes
-nav: false
+nav: true
 
 keynote:
   - name: Madeline Balaam
