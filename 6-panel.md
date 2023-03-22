@@ -19,7 +19,7 @@ panelists:
     affiliation: Disability, Innovation, and Assistive Technology Researcher, UCL.	
     url: https://uclic.ucl.ac.uk/people/giulia-barbareschi
     img_url: /images/panel/Giulia.jpg
-  - name: Cindy Bennett
+  - name: Cynthia Bennett
     affiliation: Senior Research Scientist in Google's People + AI Research group.	
     url: https://www.bennettc.com/
     img_url: https://www.bennettc.com/wp-content/uploads/2022/02/15_red-shirt-walnut-street-with-cane-smiling-close-up-urban-background-1.jpg
