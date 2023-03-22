@@ -65,10 +65,10 @@ program:
 Our preliminary program is now available. Please note that the program is subject to change.
 {% include program-items.html %}
 
-## Panel
-
-Find out more about our panelists [here](./6-panel.html).
-
 ## Keynotes
 
 Find out more about our keynote speakers [here](./5-keynote.html)
+
+## Panel
+
+Find out more about our panelists [here](./6-panel.html).
