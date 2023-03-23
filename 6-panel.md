@@ -16,7 +16,7 @@ panelists:
   - name: Alexander Mädche 
     affiliation: Professor at Karlsruhe Institute of Technology
     url: https://h-lab.iism.kit.edu/team_maedche.php
-    img_url: /images/panel/Alex.png
+    img_url: /images/panel/alex.png
     bio: Alexander Maedche is a professor of Information Systems at the Karlsruhe Institute of Technology (KIT) in Germany. He is heading the human-centered systems lab (h-lab) researching at the intersection of information systems and human-computer interaction the design of human-centered systems for better work and life.  In his research he leverages artificial intelligence (AI)  and biosignal sensor technologies to design conversational systems, user-adaptive systems, interactive business intelligence &  analytics systems as well as human-in-the-loop systems. He is a founding member of the non-profit association Usability & UX in Germany e.V.  
   - name: Giulia Barbareschi	
     affiliation: Disability, Innovation, and Assistive Technology Researcher, UCL.	
