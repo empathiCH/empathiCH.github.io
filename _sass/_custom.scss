@@ -187,11 +187,14 @@ text-align: center;
     h1,h2,h3,h4,h5,h6{
         margin: 0;
     }
+    // align the text to the left
+    text-align: left;
 }
 
-.keynote-bio{
+.bio{
     // make the text smaller
     font-size: 0.8em;
+    text-align: left;
 }
 
 

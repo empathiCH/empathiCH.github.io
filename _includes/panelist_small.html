@@ -1,11 +1,12 @@
 <div class="panelist-grid">
     {% for person in page.panelists %}
-    <a href="{{ person.url }}">
-        <div class="grid-item">
-            <img class="panelist-img" src="{{ person.img_url }}" alt="{{ person.name }}">
+    <div class="grid-item">
+        <img class="panelist-img" src="{{ person.img_url }}" alt="{{ person.name }}">
+        <a href="{{ person.url }}">
             <h3>{{ person.name }}</h3>
             <p>{{ person.affiliation }}</p>
+        </a>
+            <div class="bio">{{person.bio}}</div>
         </div>
-    </a>
     {% endfor %} 
 </div> 
