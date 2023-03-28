@@ -22,6 +22,7 @@ panelists:
     affiliation: Disability, Innovation, and Assistive Technology Researcher, UCL.	
     url: https://uclic.ucl.ac.uk/people/giulia-barbareschi
     img_url: /images/panel/Giulia.jpg
+    bio: Giulia Barbareschi is a Research Fellow in Disability and Assistive Technology Innovation at the Keio School of Media Design in Yokohama and an honorary lecturer at the Global Disability Innovation Hub and the UCL Interaction Centre in London. Throughout her career, Giulia has collaborated with several academic institutions across the world, start-ups and private ventures, NGOs, DPOs and UN agencies. Her research interest center on the design, development and evaluation of new and existing technologies to empower people with disabilities living in different parts of the world.
   - name: Cynthia Bennett
     affiliation: Senior Research Scientist in Google's People + AI Research group.	
     url: https://www.bennettc.com/
