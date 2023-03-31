@@ -32,6 +32,8 @@ panelists:
     affiliation: Northumbria University.	
     url: https://reemtalhouk.com/
     img_url: https://reemtalhouk.files.wordpress.com/2020/09/reem.jpeg
+    bio: Reem Talhouk is an Assistant Professor in Design & Global Development at Northumbria University where she is also the Community Action & Innovation lead for the Global Development Futures Interdisciplinary Research Theme and a co-lead of the Design Feminisms Research Group. Her research is at the intersection of Humanitarianism, Global Development and HCI and engages with Feminist, Decolonial and Participatory Design theories and praxis. Her work interrogates the ways through which we go about in engaging in technological design and in turn how such designs influence the ways in which we engage with one another and with our worlds. She has conducted research in the ‘Middle East’, Europe and ‘Australia’ focusing on technologies, migration and revolution.
+
 
 ---
 
