@@ -1,6 +1,6 @@
 ---
 title: Materials
-nav: true
+nav: false
 ---
 
 ## Accepted Papers

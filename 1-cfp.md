@@ -2,10 +2,19 @@
 title: Papers
 nav: true
 ---
-
 ## Accepted Papers
 
-The list of accepted papers will be published here soon.
+- Chen Ji, Lawrence Kim:, Amori Mikami, Elizabeth Reid, Raquel Robinson, Rebecca Todd, Vasileia Karasavva, Karon Maclean, Katherine Isbister. **Sharing Feelings via Mini Robot Gestures**
+- Verena Distler, Yasmeen Abdrabou, Felix Dietz, Florian Alt. **Triggering Empathy out of Malicious Intent: The Role of Empathy in Social Engineering Attacks**
+- Ji-Youn Jung, Alessandro Bozzon. **Are Female Chatbots More Empathic? - Discussing Gendered Conversational Agent through Empathic Design**
+- Ruosi Shao. **An Empathetic AI for Mental Health Intervention: Conceptualizing and Examining Artificial Empathy**
+- Teale Masrani, Helen Ai He, Geoffrey Messier. **The Human Behind the Data: Reflections from an Ongoing Co-Design and Deployment of a Data-Navigation Interface for Front-Line Emergency Housing Shelter Staff**
+- Alok Debnath, Owen Conlan. **A Critical Analysis of EmpatheticDialogues as a Corpus for Empathetic Engagement**
+- Shruti Rao, Judith Good. **Towards Empathic Buildings: Exploring How Smart Buildings May Be Designed to Address Occupants’ Subjective Needs**
+- Wo Meijer, Bent Verhoeff, Himanshu Verma, Jacky Bourgeois. **Fast Drink: Mediating Empathy for Gig Workers**
+- Maria Jose Vilches Gonzalez, Leya George, Lidia Miteva, Aneesha Singh. **Developing Empathy towards Experiences of Invisible Disabilities Through Games**
+- Tim Schneegans, Andry Niclas, Kirsten Greiner, Ivo Benke:Karlsruhe, Alexander Mädche, Michael Beigl. **Annotating Affect in the Field: A Case Study on the Usability of a Minimalist Smartwatch User Interface for Affect Annotation**
+- Luce Drouet, Froukje Sleeswijk Visser. Carine Lallemand. **Using Empathy-Centric Design in Industry: Reflections from the UX Researcher, the Client, and the Method Expert**
 
 ## Call for Participation
 While HCI and design research acknowledged the importance of empathy to the design of user-centered technologies and services, there remain open questions about: assessing empathy, its diversity, and related tensions.

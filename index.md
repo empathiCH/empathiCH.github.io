@@ -10,6 +10,8 @@ nav: false
 
 ## EmpathiCH: Unravelling Empathy-Centric Design
 
+### The list of accepted papers is out! Check it out [here](/1-cfp.html)
+
 EmpathiCH is a [full-day workshop](/3-program.html) at CHI '23 that includes participants' presentations, [two inspiring keynote talks](/5-keynote.html), and a [panel of experts](/6-panel.html).
 
 Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
